@@ -38,4 +38,4 @@ print(f"Days with messages: {(daily_stats['message_count'] > 0).sum()}")
 print(f"Days with no messages: {(daily_stats['message_count'] == 0).sum()}")
 
 daily_stats.to_csv('data/daily_stats.csv', index=False)
-print("✓ Saved to data/daily_stats.csv")
+print("Saved to data/daily_stats.csv")
