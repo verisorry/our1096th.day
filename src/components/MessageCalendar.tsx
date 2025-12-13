@@ -23,14 +23,8 @@ interface MessageGridProps {
 }
 
 export default function MessageCalendar({ data }: MessageGridProps) {
-    const MOBILE_COLUMNS = 28;
-    const DESKTOP_COULMNS = 52;
-
-    const DAYS = data.length;
-
     return (
         <div className="relative w-full overflow-x-auto pb-4">
-            {/* desktop */}
             <div className="grid gap-1 w-fit mx-auto" style={{ gridTemplateColumns: 'repeat(14, minmax(0, 1fr))' }}>
                 {data.map((day, index) => {
                     return (
