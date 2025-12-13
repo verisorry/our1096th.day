@@ -46,7 +46,10 @@ def get_messages(identifiers, his_name, your_name, output):
         if text:
             text = text.replace('\n', '\\n').replace('\r', '\\r').replace('"', "'")
             text = f"\"{text}\""
-        
+        else:
+            # Use placeholder for empty messages (images, reactions, etc.)
+            text = '"[media]"'
+
         output.append(f"{formatted_date}{config.DELIMITER}{msg_sender}{config.DELIMITER}{text}{config.DELIMITER}{decoded}")
 
 output = ["time,sender,message,decoded"]
