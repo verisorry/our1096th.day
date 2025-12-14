@@ -1,3 +1,8 @@
+1. scripts/export_imessages.py
+2. scripts/process_messages.py
+3. scripts/analyse_sentiment.py
+4. scripts/tag_era.py
+5. scripts/export_json.py
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

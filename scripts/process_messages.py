@@ -9,15 +9,15 @@ df = pd.read_csv('data/raw_messages.csv')
 df['datetime'] = pd.to_datetime(df['time'])
 df['date'] = df['datetime'].dt.date
 
-df['is_from_me'] = df['sender'] == os.getenv('MY_NAME')
+df['is_from_you'] = df['sender'] == os.getenv('YOUR_NAME')
 
 daily_stats = df.groupby('date').agg({
     'message': ['count', list],
-    'is_from_me': 'sum'
+    'is_from_you': 'sum'
 }).reset_index()
 
-daily_stats.columns = ['date', 'message_count', 'all_messages', 'from_me_count']
-daily_stats['from_him_count'] = daily_stats['message_count'] - daily_stats['from_me_count']
+daily_stats.columns = ['date', 'message_count', 'all_messages', 'from_you_count']
+daily_stats['from_him_count'] = daily_stats['message_count'] - daily_stats['from_you_count']
 
 start_date = pd.to_datetime(daily_stats['date'].min())
 end_date = pd.to_datetime(daily_stats['date'].max())
@@ -29,7 +29,7 @@ complete_df['date'] = pd.to_datetime(complete_df['date'])
 
 daily_stats = complete_df.merge(daily_stats, on='date', how='left')
 daily_stats['message_count'] = daily_stats['message_count'].fillna(0).astype(int)
-daily_stats['from_me_count'] = daily_stats['from_me_count'].fillna(0).astype(int)
+daily_stats['from_you_count'] = daily_stats['from_you_count'].fillna(0).astype(int)
 daily_stats['from_him_count'] = daily_stats['from_him_count'].fillna(0).astype(int)
 daily_stats['all_messages'] = daily_stats['all_messages'].fillna('').apply(lambda x: x if isinstance(x, list) else [])
 

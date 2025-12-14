@@ -8,7 +8,7 @@ for _, row in df.iterrows():
     data.append({
         'date': str(row['date']),
         'messageCount': int(row['message_count']) if pd.notna(row['message_count']) else 0,
-        'fromMe': int(row['from_me_count']) if pd.notna(row['from_me_count']) else 0,
+        'fromYou': int(row['from_you_count']) if pd.notna(row['from_you_count']) else 0,
         'fromHim': int(row['from_him_count']) if pd.notna(row['from_him_count']) else 0,
         'sentiment': {
             'polarity': float(row['polarity']) if pd.notna(row['polarity']) else 0,
@@ -18,7 +18,8 @@ for _, row in df.iterrows():
         'quote': row['quote'] if pd.notna(row['quote']) else '',
         'topEmoji': row['top_emoji'] if pd.notna(row['top_emoji']) else '',
         'era': row['era'],
-        'milestone': row['milestone'] if pd.notna(row['milestone']) else None
+        'milestone': row['milestone'] if pd.notna(row['milestone']) else None,
+        'isApart': row['is_apart']
     })
 
 with open('src/data/messages.json', 'w+') as f:

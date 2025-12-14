@@ -2,7 +2,7 @@
   {
     "date": "2024-12-13",
     "messageCount": 47,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 47,
     "sentiment": {
       "polarity": 0.221,
@@ -12,12 +12,13 @@
     "quote": "Crazy from no seat to 1A",
     "topEmoji": "\u2764",
     "era": "Luke Abroad",
-    "milestone": null
+    "milestone": null,
+    "isApart": true
   },
   {
     "date": "2024-12-14",
     "messageCount": 23,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 23,
     "sentiment": {
       "polarity": 0.323,
@@ -27,12 +28,13 @@
     "quote": "If he\u2019s not close don\u2019t worry the mrt is ok",
     "topEmoji": "",
     "era": "Luke Abroad",
-    "milestone": "Reunited After Abroad"
+    "milestone": "Reunited After Abroad",
+    "isApart": true
   },
   {
     "date": "2024-12-15",
     "messageCount": 4,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 4,
     "sentiment": {
       "polarity": 0.5,
@@ -42,12 +44,13 @@
     "quote": "Ok biking there now",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-16",
     "messageCount": 30,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 30,
     "sentiment": {
       "polarity": 0.22,
@@ -57,12 +60,13 @@
     "quote": "Noodles look good!",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-17",
     "messageCount": 3,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 3,
     "sentiment": {
       "polarity": 0.0,
@@ -72,12 +76,13 @@
     "quote": "Got some work done?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-18",
     "messageCount": 17,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 17,
     "sentiment": {
       "polarity": 0.25,
@@ -87,12 +92,13 @@
     "quote": "Could you please figure out which building I need to go to",
     "topEmoji": "\ud83d\udcaa",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-19",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -102,12 +108,13 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-20",
     "messageCount": 28,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 28,
     "sentiment": {
       "polarity": 0.26,
@@ -117,12 +124,13 @@
     "quote": "Laughed at an image",
     "topEmoji": "\ud83d\ude05",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-21",
     "messageCount": 101,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 101,
     "sentiment": {
       "polarity": 0.302,
@@ -132,12 +140,13 @@
     "quote": "Yeah it\u2019s perfect",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-22",
     "messageCount": 44,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 44,
     "sentiment": {
       "polarity": 0.129,
@@ -147,12 +156,13 @@
     "quote": "My mom said best mentaiko she\u2019s ever had",
     "topEmoji": "\ud83d\ude02",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-23",
     "messageCount": 50,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 50,
     "sentiment": {
       "polarity": 0.367,
@@ -162,12 +172,13 @@
     "quote": "He said ok to California!",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-24",
     "messageCount": 32,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 32,
     "sentiment": {
       "polarity": 0.389,
@@ -177,12 +188,13 @@
     "quote": "So needed to make sure you didn\u2019t bleach it",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-25",
     "messageCount": 86,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 86,
     "sentiment": {
       "polarity": 0.118,
@@ -192,12 +204,13 @@
     "quote": "All one color for once lol",
     "topEmoji": "\ud83d\ude0d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-26",
     "messageCount": 39,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 39,
     "sentiment": {
       "polarity": 0.09,
@@ -207,12 +220,13 @@
     "quote": "What a annoying deadline",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-27",
     "messageCount": 37,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 37,
     "sentiment": {
       "polarity": 0.15,
@@ -222,12 +236,13 @@
     "quote": "Happy with the lashes?",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-28",
     "messageCount": 92,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 92,
     "sentiment": {
       "polarity": 0.14,
@@ -237,12 +252,13 @@
     "quote": "How its very impressive",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-29",
     "messageCount": 149,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 149,
     "sentiment": {
       "polarity": 0.228,
@@ -252,12 +268,13 @@
     "quote": "Will make you more scared",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-30",
     "messageCount": 44,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 44,
     "sentiment": {
       "polarity": 0.208,
@@ -267,12 +284,13 @@
     "quote": "They called me Neymar lol",
     "topEmoji": "\ud83d\ude04",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2024-12-31",
     "messageCount": 70,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 70,
     "sentiment": {
       "polarity": 0.239,
@@ -282,12 +300,13 @@
     "quote": "I love you\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f!!!",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-01",
     "messageCount": 39,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 39,
     "sentiment": {
       "polarity": 0.21,
@@ -297,12 +316,13 @@
     "quote": "Too bad we don\u2019t do any",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-02",
     "messageCount": 45,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 45,
     "sentiment": {
       "polarity": 0.157,
@@ -312,12 +332,13 @@
     "quote": "Lunch successful?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-03",
     "messageCount": 7,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 7,
     "sentiment": {
       "polarity": 0.5,
@@ -327,12 +348,13 @@
     "quote": "Reacted \u2764\ufe0f to \u201cI love you too \u2764\ufe0f\u201d",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-04",
     "messageCount": 70,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 70,
     "sentiment": {
       "polarity": 0.177,
@@ -342,13 +364,14 @@
     "quote": "Yeah very good friends",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-05",
     "messageCount": 242,
-    "fromMe": 0,
-    "fromHim": 242,
+    "fromYou": 140,
+    "fromHim": 102,
     "sentiment": {
       "polarity": 0.233,
       "compound": 1.0,
@@ -357,13 +380,14 @@
     "quote": "Use it wisely lol",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-06",
     "messageCount": 770,
-    "fromMe": 0,
-    "fromHim": 770,
+    "fromYou": 447,
+    "fromHim": 323,
     "sentiment": {
       "polarity": 0.142,
       "compound": 1.0,
@@ -372,13 +396,14 @@
     "quote": "Happy two years baby",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": "Moved In Together! & 2nd Year Anniversary"
+    "milestone": "Moved In Together! & 2nd Year Anniversary",
+    "isApart": false
   },
   {
     "date": "2025-01-07",
     "messageCount": 167,
-    "fromMe": 0,
-    "fromHim": 167,
+    "fromYou": 97,
+    "fromHim": 70,
     "sentiment": {
       "polarity": 0.149,
       "compound": 0.999,
@@ -387,13 +412,14 @@
     "quote": "Good you slept a bit!",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-08",
     "messageCount": 40,
-    "fromMe": 0,
-    "fromHim": 40,
+    "fromYou": 20,
+    "fromHim": 20,
     "sentiment": {
       "polarity": 0.175,
       "compound": 0.79,
@@ -402,13 +428,14 @@
     "quote": "Too many people here",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-09",
     "messageCount": 39,
-    "fromMe": 0,
-    "fromHim": 39,
+    "fromYou": 23,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.062,
       "compound": 0.958,
@@ -417,13 +444,14 @@
     "quote": "Can you clean up the kitchen for me",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-10",
     "messageCount": 43,
-    "fromMe": 0,
-    "fromHim": 43,
+    "fromYou": 27,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.27,
       "compound": 0.985,
@@ -432,12 +460,13 @@
     "quote": "There\u2019s too many options",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-11",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
@@ -447,13 +476,14 @@
     "quote": "Do I need to press a button",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-12",
     "messageCount": 17,
-    "fromMe": 0,
-    "fromHim": 17,
+    "fromYou": 11,
+    "fromHim": 6,
     "sentiment": {
       "polarity": -0.098,
       "compound": -0.914,
@@ -462,13 +492,14 @@
     "quote": "BOr if u wanna take the 201 then google maps but its no longer free",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-13",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 4,
+    "fromHim": 2,
     "sentiment": {
       "polarity": -0.25,
       "compound": 0.041,
@@ -477,13 +508,14 @@
     "quote": "If this guy drives any slower we\u2019re gonna be late",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-14",
     "messageCount": 18,
-    "fromMe": 0,
-    "fromHim": 18,
+    "fromYou": 9,
+    "fromHim": 9,
     "sentiment": {
       "polarity": 0.028,
       "compound": 0.862,
@@ -492,13 +524,14 @@
     "quote": "Yeah I thought it was folded up at first",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-15",
     "messageCount": 29,
-    "fromMe": 0,
-    "fromHim": 29,
+    "fromYou": 16,
+    "fromHim": 13,
     "sentiment": {
       "polarity": -0.045,
       "compound": 0.901,
@@ -507,13 +540,14 @@
     "quote": "Holy crap it smells like tequila in here",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-16",
     "messageCount": 17,
-    "fromMe": 0,
-    "fromHim": 17,
+    "fromYou": 10,
+    "fromHim": 7,
     "sentiment": {
       "polarity": 0.375,
       "compound": 0.003,
@@ -522,13 +556,14 @@
     "quote": "https://docs.github.com/en/enterprise-server@3.12/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-17",
     "messageCount": 60,
-    "fromMe": 0,
-    "fromHim": 60,
+    "fromYou": 28,
+    "fromHim": 32,
     "sentiment": {
       "polarity": 0.179,
       "compound": 0.989,
@@ -537,13 +572,14 @@
     "quote": "Ill watch the score",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-18",
     "messageCount": 13,
-    "fromMe": 0,
-    "fromHim": 13,
+    "fromYou": 7,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.14,
       "compound": 0.869,
@@ -552,12 +588,13 @@
     "quote": "Have 30 more minutes of this",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-19",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -567,12 +604,13 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-20",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -582,13 +620,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-21",
     "messageCount": 1,
-    "fromMe": 0,
-    "fromHim": 1,
+    "fromYou": 1,
+    "fromHim": 0,
     "sentiment": {
       "polarity": -0.75,
       "compound": 0.0,
@@ -597,13 +636,14 @@
     "quote": "tab_level = '  ' * level\\n        if len(tree.branches) == 0:\\n            print(f'{level}: {tab_level} Predict {tree.return_value}')\\n        elif len(tree.branches) == 2:\\n            print(f'{level}: {tab_level} if {tree.attribute_name} <= {tree.split_value:.1f}:')",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-22",
     "messageCount": 10,
-    "fromMe": 0,
-    "fromHim": 10,
+    "fromYou": 5,
+    "fromHim": 5,
     "sentiment": {
       "polarity": 0.148,
       "compound": 0.813,
@@ -612,13 +652,14 @@
     "quote": "Got the food ok?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-23",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 3,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.649,
@@ -627,13 +668,14 @@
     "quote": "AAccept your invite for Boka on Thursday 13 February at 6:15pm.",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-24",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 4,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.542,
@@ -642,13 +684,14 @@
     "quote": "You have to submit your FRQ to canvas for 349",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-25",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 2,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -657,13 +700,14 @@
     "quote": "Can u close the door",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-26",
     "messageCount": 25,
-    "fromMe": 0,
-    "fromHim": 25,
+    "fromYou": 17,
+    "fromHim": 8,
     "sentiment": {
       "polarity": -0.055,
       "compound": 0.755,
@@ -672,13 +716,14 @@
     "quote": "I HATE THIS CLASS",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-27",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 3,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.7,
       "compound": 0.637,
@@ -687,13 +732,14 @@
     "quote": "MBora said he has a reservation on the 9th for Aba which is a good restaurant",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-28",
     "messageCount": 45,
-    "fromMe": 0,
-    "fromHim": 45,
+    "fromYou": 25,
+    "fromHim": 20,
     "sentiment": {
       "polarity": 0.365,
       "compound": 0.969,
@@ -702,13 +748,14 @@
     "quote": "How many reservations do we already have",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-29",
     "messageCount": 33,
-    "fromMe": 0,
-    "fromHim": 33,
+    "fromYou": 20,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.171,
       "compound": 0.972,
@@ -717,13 +764,14 @@
     "quote": "Yeah kinda nice out today",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-30",
     "messageCount": 41,
-    "fromMe": 0,
-    "fromHim": 41,
+    "fromYou": 25,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.166,
       "compound": 0.993,
@@ -732,13 +780,14 @@
     "quote": "mIdk If u see them put like the \u201csorry we missed you\u201d sticker on the front door then it\u2019s probably mine",
     "topEmoji": "\ud83e\udd79",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-01-31",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 1,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.417,
       "compound": 0.202,
@@ -747,13 +796,14 @@
     "quote": "We can make it it should be fine",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-01",
     "messageCount": 58,
-    "fromMe": 0,
-    "fromHim": 58,
+    "fromYou": 30,
+    "fromHim": 28,
     "sentiment": {
       "polarity": 0.105,
       "compound": 0.988,
@@ -762,13 +812,14 @@
     "quote": "No I don\u2019t wanna talk abt rent again lmao",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-02",
     "messageCount": 25,
-    "fromMe": 0,
-    "fromHim": 25,
+    "fromYou": 15,
+    "fromHim": 10,
     "sentiment": {
       "polarity": 0.169,
       "compound": 0.907,
@@ -777,13 +828,14 @@
     "quote": "I\u2019m ok thank you",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-03",
     "messageCount": 102,
-    "fromMe": 0,
-    "fromHim": 102,
+    "fromYou": 56,
+    "fromHim": 46,
     "sentiment": {
       "polarity": 0.082,
       "compound": 0.997,
@@ -792,13 +844,14 @@
     "quote": "You could also do nothing but might not be the best",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-04",
     "messageCount": 30,
-    "fromMe": 0,
-    "fromHim": 30,
+    "fromYou": 17,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.198,
       "compound": 0.941,
@@ -807,13 +860,14 @@
     "quote": "Oh ok just got one",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-05",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 12,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.191,
       "compound": 0.956,
@@ -822,13 +876,14 @@
     "quote": "Gonna take my midterm right after",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-06",
     "messageCount": 23,
-    "fromMe": 0,
-    "fromHim": 23,
+    "fromYou": 12,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.27,
       "compound": 0.972,
@@ -837,13 +892,14 @@
     "quote": "Should be easy to find",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-07",
     "messageCount": 24,
-    "fromMe": 0,
-    "fromHim": 24,
+    "fromYou": 13,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.119,
       "compound": 0.972,
@@ -852,13 +908,14 @@
     "quote": "And the chicken sausages if u can",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-08",
     "messageCount": 30,
-    "fromMe": 0,
-    "fromHim": 30,
+    "fromYou": 19,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.149,
       "compound": 0.844,
@@ -867,13 +924,14 @@
     "quote": "Ok I\u2019ll go over when siggie leaves",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-09",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 2,
+    "fromHim": 4,
     "sentiment": {
       "polarity": -0.15,
       "compound": -0.681,
@@ -882,12 +940,13 @@
     "quote": "BRUHHH im looking at the team feedback for my group project and everyone wrote one sentence besides the annoying dude who wrote THREE PARAGRAPHS about how he\u2019s the only one doing work",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-10",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -897,13 +956,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-11",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 17,
+    "fromHim": 10,
     "sentiment": {
       "polarity": -0.056,
       "compound": -0.212,
@@ -912,13 +972,14 @@
     "quote": "Don\u2019t open it its ur gift lol",
     "topEmoji": "\ud83e\udd1f",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-12",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 1,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -927,13 +988,14 @@
     "quote": "Why can't you just be normal?\\n6 7 9 12 16 21\\n5 92\\n7 0",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-13",
     "messageCount": 13,
-    "fromMe": 0,
-    "fromHim": 13,
+    "fromYou": 8,
+    "fromHim": 5,
     "sentiment": {
       "polarity": -0.075,
       "compound": 0.818,
@@ -942,12 +1004,13 @@
     "quote": "Be careful might be heavy though",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-14",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.189,
@@ -957,13 +1020,14 @@
     "quote": "There is a huge water main break on Mccormick and the city shut off the water entirely until the city fixes the issue (Paul)",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-15",
     "messageCount": 17,
-    "fromMe": 0,
-    "fromHim": 17,
+    "fromYou": 9,
+    "fromHim": 8,
     "sentiment": {
       "polarity": 0.005,
       "compound": 0.71,
@@ -972,13 +1036,14 @@
     "quote": "I mean it\u2019s been working so",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-16",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 1,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.5,
       "compound": 0.296,
@@ -987,13 +1052,14 @@
     "quote": "How many nights in Boston",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-17",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 4,
+    "fromHim": 1,
     "sentiment": {
       "polarity": -0.25,
       "compound": -0.347,
@@ -1002,13 +1068,14 @@
     "quote": "It\u2019s so weird being the third wheel",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-18",
     "messageCount": 29,
-    "fromMe": 0,
-    "fromHim": 29,
+    "fromYou": 18,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.036,
       "compound": 0.885,
@@ -1017,13 +1084,14 @@
     "quote": "blocks makes 12 idk if we want more",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-19",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 1,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.02,
       "compound": 0.92,
@@ -1032,12 +1100,13 @@
     "quote": "Question 3\\n\\n\t1\tThe model that takes the longest to train is the polynomial regression because we are trying to use a mathematical model to fit the training data. This is done by solving the least squares optimization problem which can have a very high time complexity. On the other hand the KNN has",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-20",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -1047,13 +1116,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-21",
     "messageCount": 39,
-    "fromMe": 0,
-    "fromHim": 39,
+    "fromYou": 25,
+    "fromHim": 14,
     "sentiment": {
       "polarity": 0.134,
       "compound": 0.984,
@@ -1062,13 +1132,14 @@
     "quote": "Well that\u2019s good",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-22",
     "messageCount": 8,
-    "fromMe": 0,
-    "fromHim": 8,
+    "fromYou": 2,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.0,
       "compound": -0.052,
@@ -1077,13 +1148,14 @@
     "quote": "We should probably leave in about 10 minutes",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-23",
     "messageCount": 12,
-    "fromMe": 0,
-    "fromHim": 12,
+    "fromYou": 5,
+    "fromHim": 7,
     "sentiment": {
       "polarity": 0.306,
       "compound": -0.34,
@@ -1092,12 +1164,13 @@
     "quote": "Gotta eat it later then",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-24",
     "messageCount": 3,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 3,
     "sentiment": {
       "polarity": 0.0,
@@ -1107,13 +1180,14 @@
     "quote": "ec 08 \\n48 c7 c7 05 95 36 11 \\n48 83 c4 08\\nc3\\nc3\\na1 17 40 00 00 00 00 00",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-25",
     "messageCount": 9,
-    "fromMe": 0,
-    "fromHim": 9,
+    "fromYou": 9,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.167,
       "compound": 0.886,
@@ -1122,13 +1196,14 @@
     "quote": "AND WE HAVE TO NOW CELEBRATE HIM GETTING LUCKY",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-26",
     "messageCount": 16,
-    "fromMe": 0,
-    "fromHim": 16,
+    "fromYou": 10,
+    "fromHim": 6,
     "sentiment": {
       "polarity": -0.036,
       "compound": 0.808,
@@ -1137,13 +1212,14 @@
     "quote": "But nothing else has it right",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-27",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 1,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.142,
       "compound": 0.981,
@@ -1152,13 +1228,14 @@
     "quote": "Question 1\\n\\na)\\n\\nExperiment 1\\nX, y = load_digits(classes=(0, 1), n=10000)\\nhidden_layer_sizes = (16,8)\\nmax_iter = 300\\n\\n2-class| Us: 0.993; Sklearn: 0.995 Logreg: 0.995\\n\\nExperiment 2\\nX, y = load_digits(classes=(3, 8), n=5000)\\nhidden_layer_sizes = (8,)\\nmax_iter = 200\\n\\n2-class| Us: 0.948;",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-02-28",
     "messageCount": 1,
-    "fromMe": 0,
-    "fromHim": 1,
+    "fromYou": 1,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.542,
@@ -1167,13 +1244,14 @@
     "quote": "bIn refining 0xAA238C : 0xDFACF (Dranesville) in 00h 03m 35s 973ms I have brought glory to the company.\\nPraise Kier.\\n5\ufe0f\u20e31\ufe0f\u20e37\ufe0f\u20e34\ufe0f\u20e32\ufe0f\u20e3\\n6\ufe0f\u20e30\ufe0f\u20e39\ufe0f\u20e35\ufe0f\u20e36\ufe0f\u20e3\\n1\ufe0f\u20e30\ufe0f\u20e30\ufe0f\u20e39\ufe0f\u20e35\ufe0f\u20e3\\n5\ufe0f\u20e36\ufe0f\u20e37\ufe0f\u20e36\ufe0f\u20e36\ufe0f\u20e3\\n7\ufe0f\u20e32\ufe0f\u20e38\ufe0f\u20e38\ufe0f\u20e32\ufe0f\u20e3\\n#mdrlumon #severance \ud83e\uddc7\ud83d\udc10\ud83d\udd22\ud83d\udcaf\\nlumon-industries.com",
     "topEmoji": "\ud83e\uddc7",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-01",
     "messageCount": 7,
-    "fromMe": 0,
-    "fromHim": 7,
+    "fromYou": 3,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.2,
       "compound": 0.96,
@@ -1182,12 +1260,13 @@
     "quote": "Well at least you can help move the stuff",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-02",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
@@ -1197,13 +1276,14 @@
     "quote": "[media]",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-03",
     "messageCount": 30,
-    "fromMe": 0,
-    "fromHim": 30,
+    "fromYou": 17,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.326,
       "compound": 0.967,
@@ -1212,13 +1292,14 @@
     "quote": "I\u2019m scared it\u2019s gonna go bad",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-04",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 1,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -1227,13 +1308,14 @@
     "quote": "Lmk when ur done I wanna grab my lip balm",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-05",
     "messageCount": 76,
-    "fromMe": 0,
-    "fromHim": 76,
+    "fromYou": 46,
+    "fromHim": 30,
     "sentiment": {
       "polarity": 0.231,
       "compound": 0.983,
@@ -1242,13 +1324,14 @@
     "quote": "The atleti coach is so expressive",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-06",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 2,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -1257,13 +1340,14 @@
     "quote": "Can you come here",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-07",
     "messageCount": 7,
-    "fromMe": 0,
-    "fromHim": 7,
+    "fromYou": 4,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.625,
       "compound": 0.881,
@@ -1272,13 +1356,14 @@
     "quote": "Going to Blom with my brother at 3 if anyone wants to join",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-08",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 3,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -1287,13 +1372,14 @@
     "quote": "Siggies just soooooo different",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-09",
     "messageCount": 42,
-    "fromMe": 0,
-    "fromHim": 42,
+    "fromYou": 24,
+    "fromHim": 18,
     "sentiment": {
       "polarity": 0.163,
       "compound": 0.985,
@@ -1302,13 +1388,14 @@
     "quote": "Oh that\u2019s too bad",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-10",
     "messageCount": 14,
-    "fromMe": 0,
-    "fromHim": 14,
+    "fromYou": 10,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.28,
       "compound": 0.922,
@@ -1317,12 +1404,13 @@
     "quote": "oNo way siggie just said that if he had a summer in the US in high school he would want to be a trash collector",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-11",
     "messageCount": 2,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 2,
     "sentiment": {
       "polarity": 0.0,
@@ -1332,13 +1420,14 @@
     "quote": "https://github.com/Lukdes/cs213-setilab/tree/main",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-12",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 2,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.35,
       "compound": 0.447,
@@ -1347,13 +1436,14 @@
     "quote": "Make sure I\u2019m not in the view \ud83d\ude2d",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-13",
     "messageCount": 32,
-    "fromMe": 0,
-    "fromHim": 32,
+    "fromYou": 21,
+    "fromHim": 11,
     "sentiment": {
       "polarity": -0.072,
       "compound": 0.821,
@@ -1362,13 +1452,14 @@
     "quote": "And it\u2019s so annoying they\u2019re just defending",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-14",
     "messageCount": 19,
-    "fromMe": 0,
-    "fromHim": 19,
+    "fromYou": 10,
+    "fromHim": 9,
     "sentiment": {
       "polarity": 0.126,
       "compound": 0.442,
@@ -1377,13 +1468,14 @@
     "quote": "If not that\u2019s fine too",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-15",
     "messageCount": 7,
-    "fromMe": 0,
-    "fromHim": 7,
+    "fromYou": 4,
+    "fromHim": 3,
     "sentiment": {
       "polarity": -0.04,
       "compound": -0.075,
@@ -1392,13 +1484,14 @@
     "quote": "Why did u break the toilet \ud83d\ude2d",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-16",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 1,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.2,
       "compound": 0.477,
@@ -1407,13 +1500,14 @@
     "quote": "Liked \u201cnatalia and geo want to come over later tn\u201d",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-17",
     "messageCount": 1,
-    "fromMe": 0,
-    "fromHim": 1,
+    "fromYou": 1,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -1422,12 +1516,13 @@
     "quote": "PCovered parking (indoors) is 150/month\\nUncovered parking (outdoors) is 110/month",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-18",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -1437,13 +1532,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-19",
     "messageCount": 25,
-    "fromMe": 0,
-    "fromHim": 25,
+    "fromYou": 16,
+    "fromHim": 9,
     "sentiment": {
       "polarity": 0.275,
       "compound": 0.929,
@@ -1452,12 +1548,13 @@
     "quote": "Oh that\u2019s a good one",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-20",
     "messageCount": 2,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 2,
     "sentiment": {
       "polarity": 0.0,
@@ -1467,12 +1564,13 @@
     "quote": "https://fantasy.espn.com/tc/sharer?challengeId=257&from=espn&context=CHAMPION_PICK&entryId=ce1411f0-055b-11f0-a2e5-1d1ec8bf1422&outcomeId=29ef87b1-e4b2-11ef-b0aa-77c6c7c47db6&propositionId=29ef8790-e4b2-11ef-b0aa-77c6c7c47db6",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-21",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -1482,13 +1580,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-22",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 2,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.2,
       "compound": 0.44,
@@ -1497,13 +1596,14 @@
     "quote": "Anything from dnd?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-23",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 5,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.103,
       "compound": 0.186,
@@ -1512,13 +1612,14 @@
     "quote": "The little girl keeps watching me cuz I was putting on lip balm",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-24",
     "messageCount": 11,
-    "fromMe": 0,
-    "fromHim": 11,
+    "fromYou": 10,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.072,
       "compound": 0.772,
@@ -1527,13 +1628,14 @@
     "quote": "It\u2019s not even funny anymore",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-25",
     "messageCount": 49,
-    "fromMe": 0,
-    "fromHim": 49,
+    "fromYou": 29,
+    "fromHim": 20,
     "sentiment": {
       "polarity": 0.239,
       "compound": 0.965,
@@ -1542,13 +1644,14 @@
     "quote": "I love you too!!",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-26",
     "messageCount": 19,
-    "fromMe": 0,
-    "fromHim": 19,
+    "fromYou": 13,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.199,
       "compound": 0.873,
@@ -1557,13 +1660,14 @@
     "quote": "I feel so bad for leaving you alone for two nights",
     "topEmoji": "\ud83d\udc4b",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-27",
     "messageCount": 48,
-    "fromMe": 0,
-    "fromHim": 48,
+    "fromYou": 23,
+    "fromHim": 25,
     "sentiment": {
       "polarity": 0.41,
       "compound": 0.982,
@@ -1572,13 +1676,14 @@
     "quote": "Yea me too honestly",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-28",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 5,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.751,
@@ -1587,13 +1692,14 @@
     "quote": "https://hoppy.com/clammy424",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-29",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 2,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -1602,12 +1708,13 @@
     "quote": "Where do I call it to???",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-30",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
@@ -1617,13 +1724,14 @@
     "quote": "https://www.amtrak.com/guestrewards/account-overview/missing-points.html?cmp=eml-2022-ProactiveServiceRecovery-MissingPoints-NonAGR-Trigger",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-03-31",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 3,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -1632,13 +1740,14 @@
     "quote": "https://www.irs.gov/filing/irs-free-file-do-your-taxes-for-free",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-01",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 4,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.459,
@@ -1647,13 +1756,14 @@
     "quote": "Cwtf bowdoin had a lower acceptance rate than northwestern this year",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-02",
     "messageCount": 37,
-    "fromMe": 0,
-    "fromHim": 37,
+    "fromYou": 23,
+    "fromHim": 14,
     "sentiment": {
       "polarity": 0.16,
       "compound": 0.995,
@@ -1662,13 +1772,14 @@
     "quote": "Oh I thought that one was easy",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-03",
     "messageCount": 21,
-    "fromMe": 0,
-    "fromHim": 21,
+    "fromYou": 13,
+    "fromHim": 8,
     "sentiment": {
       "polarity": -0.12,
       "compound": -0.79,
@@ -1677,13 +1788,14 @@
     "quote": "Omg my class is so full she\u2019s asking people to leave",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-04",
     "messageCount": 42,
-    "fromMe": 0,
-    "fromHim": 42,
+    "fromYou": 26,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.131,
       "compound": 0.802,
@@ -1692,13 +1804,14 @@
     "quote": "Crap I need my iPad",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-05",
     "messageCount": 80,
-    "fromMe": 0,
-    "fromHim": 80,
+    "fromYou": 42,
+    "fromHim": 38,
     "sentiment": {
       "polarity": 0.235,
       "compound": 0.996,
@@ -1707,13 +1820,14 @@
     "quote": "What kind of interview was it",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-06",
     "messageCount": 43,
-    "fromMe": 0,
-    "fromHim": 43,
+    "fromYou": 20,
+    "fromHim": 23,
     "sentiment": {
       "polarity": -0.013,
       "compound": 0.822,
@@ -1722,13 +1836,14 @@
     "quote": "I\u2019m confused what are they protesting",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-07",
     "messageCount": 34,
-    "fromMe": 0,
-    "fromHim": 34,
+    "fromYou": 18,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.338,
       "compound": 0.985,
@@ -1737,13 +1852,14 @@
     "quote": "Oh ok well maybe nap",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-08",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 1,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.707,
@@ -1752,13 +1868,14 @@
     "quote": "Still need milk?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-09",
     "messageCount": 35,
-    "fromMe": 0,
-    "fromHim": 35,
+    "fromYou": 22,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.188,
       "compound": 0.949,
@@ -1767,13 +1884,14 @@
     "quote": "I was thinking of staying at ur SF place lol",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-10",
     "messageCount": 29,
-    "fromMe": 0,
-    "fromHim": 29,
+    "fromYou": 13,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.393,
       "compound": 0.981,
@@ -1782,13 +1900,14 @@
     "quote": "What kind of chocolate",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-11",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 4,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.2,
       "compound": -0.341,
@@ -1797,13 +1916,14 @@
     "quote": "Anything from d&d?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-12",
     "messageCount": 67,
-    "fromMe": 0,
-    "fromHim": 67,
+    "fromYou": 51,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.074,
       "compound": 0.902,
@@ -1812,12 +1932,13 @@
     "quote": "I wanted the dumplings :(",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-13",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -1827,12 +1948,13 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-14",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
@@ -1842,12 +1964,13 @@
     "quote": "My lab partner is coming over in a bit",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-15",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
@@ -1857,13 +1980,14 @@
     "quote": "[media]",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-16",
     "messageCount": 40,
-    "fromMe": 0,
-    "fromHim": 40,
+    "fromYou": 25,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.136,
       "compound": 0.936,
@@ -1872,13 +1996,14 @@
     "quote": "Didn\u2019t want to wear anything too nice",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-17",
     "messageCount": 19,
-    "fromMe": 0,
-    "fromHim": 19,
+    "fromYou": 10,
+    "fromHim": 9,
     "sentiment": {
       "polarity": 0.21,
       "compound": 0.971,
@@ -1887,13 +2012,14 @@
     "quote": "Would be great if u could cook dinner for me hehe",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-18",
     "messageCount": 29,
-    "fromMe": 0,
-    "fromHim": 29,
+    "fromYou": 18,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.125,
       "compound": 0.977,
@@ -1902,13 +2028,14 @@
     "quote": "Lol im supposed to hangout with savannah soon",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-19",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 1,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.613,
       "compound": 0.838,
@@ -1917,12 +2044,13 @@
     "quote": "Should we go out for dinner? The weather is so nice",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-20",
     "messageCount": 2,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 2,
     "sentiment": {
       "polarity": -0.5,
@@ -1932,13 +2060,14 @@
     "quote": "QLet's connect for a game of Words With Friends! My username is zyngawf_176755919.",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-21",
     "messageCount": 8,
-    "fromMe": 0,
-    "fromHim": 8,
+    "fromYou": 3,
+    "fromHim": 5,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.361,
@@ -1947,13 +2076,14 @@
     "quote": "At squash be back at 3",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-22",
     "messageCount": 1,
-    "fromMe": 0,
-    "fromHim": 1,
+    "fromYou": 1,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -1962,13 +2092,14 @@
     "quote": "https://forms.office.com/r/ftMx6vJ33S",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-23",
     "messageCount": 31,
-    "fromMe": 0,
-    "fromHim": 31,
+    "fromYou": 18,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.217,
       "compound": 0.984,
@@ -1977,13 +2108,14 @@
     "quote": "Loved \u201cNerds please\u201d",
     "topEmoji": "\ud83d\ude05",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-24",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 1,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.6,
       "compound": 0.421,
@@ -1992,13 +2124,14 @@
     "quote": "Liked \u201cJust doing a scrimmage instead \u201d",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-25",
     "messageCount": 1,
-    "fromMe": 0,
-    "fromHim": 1,
+    "fromYou": 1,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -2007,13 +2140,14 @@
     "quote": "[media]",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-26",
     "messageCount": 14,
-    "fromMe": 0,
-    "fromHim": 14,
+    "fromYou": 8,
+    "fromHim": 6,
     "sentiment": {
       "polarity": -0.1,
       "compound": -0.545,
@@ -2022,13 +2156,14 @@
     "quote": "I went to cvs cuz I was a bit early for my lashes so I thought I\u2019d pick up my birth control first but then the pharmacy was closed from 12:30-1 \ud83d\ude2d",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-27",
     "messageCount": 8,
-    "fromMe": 0,
-    "fromHim": 8,
+    "fromYou": 4,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.247,
       "compound": 0.784,
@@ -2037,12 +2172,13 @@
     "quote": "Loved \u201cLet need know if you need anything\u201d",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-28",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -2052,12 +2188,13 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-29",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -2067,13 +2204,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-04-30",
     "messageCount": 12,
-    "fromMe": 0,
-    "fromHim": 12,
+    "fromYou": 6,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.465,
       "compound": 0.917,
@@ -2082,13 +2220,14 @@
     "quote": "Ah ok can u pick up paper towels on ur way back please",
     "topEmoji": "\ud83d\ude06",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-01",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 1,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.18,
       "compound": 0.67,
@@ -2097,13 +2236,14 @@
     "quote": "VMake sure to check if the dishwasher actually ran because the stuff put back was dirty",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-02",
     "messageCount": 39,
-    "fromMe": 0,
-    "fromHim": 39,
+    "fromYou": 23,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.099,
       "compound": 0.976,
@@ -2112,13 +2252,14 @@
     "quote": "Nvm still expensive",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-03",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 1,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.175,
       "compound": 0.625,
@@ -2127,13 +2268,14 @@
     "quote": "Yeah sounds good",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-04",
     "messageCount": 8,
-    "fromMe": 0,
-    "fromHim": 8,
+    "fromYou": 3,
+    "fromHim": 5,
     "sentiment": {
       "polarity": -0.328,
       "compound": -0.691,
@@ -2142,13 +2284,14 @@
     "quote": "I think it got shut down",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-05",
     "messageCount": 2,
-    "fromMe": 0,
-    "fromHim": 2,
+    "fromYou": 1,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -2157,13 +2300,14 @@
     "quote": "Which one do u think I should get my mum and grandma",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-06",
     "messageCount": 35,
-    "fromMe": 0,
-    "fromHim": 35,
+    "fromYou": 21,
+    "fromHim": 14,
     "sentiment": {
       "polarity": 0.134,
       "compound": 0.946,
@@ -2172,13 +2316,14 @@
     "quote": "Just him though so don\u2019t get too many",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-07",
     "messageCount": 449,
-    "fromMe": 0,
-    "fromHim": 449,
+    "fromYou": 277,
+    "fromHim": 172,
     "sentiment": {
       "polarity": 0.126,
       "compound": 1.0,
@@ -2187,13 +2332,14 @@
     "quote": "My Uber driver isn\u2019t closing the windows on the highway lol",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-08",
     "messageCount": 84,
-    "fromMe": 0,
-    "fromHim": 84,
+    "fromYou": 54,
+    "fromHim": 30,
     "sentiment": {
       "polarity": 0.161,
       "compound": 0.993,
@@ -2202,13 +2348,14 @@
     "quote": "Well good that\u2019s over then",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-09",
     "messageCount": 125,
-    "fromMe": 0,
-    "fromHim": 125,
+    "fromYou": 72,
+    "fromHim": 53,
     "sentiment": {
       "polarity": 0.083,
       "compound": 0.998,
@@ -2217,13 +2364,14 @@
     "quote": "Insane amount of ppl and not everyone stayed for day2",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-10",
     "messageCount": 126,
-    "fromMe": 0,
-    "fromHim": 126,
+    "fromYou": 79,
+    "fromHim": 47,
     "sentiment": {
       "polarity": 0.265,
       "compound": 0.999,
@@ -2232,13 +2380,14 @@
     "quote": "They got upgraded :(",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-11",
     "messageCount": 25,
-    "fromMe": 0,
-    "fromHim": 25,
+    "fromYou": 11,
+    "fromHim": 14,
     "sentiment": {
       "polarity": 0.071,
       "compound": -0.407,
@@ -2247,13 +2396,14 @@
     "quote": "It comes uncut w two of them",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-12",
     "messageCount": 12,
-    "fromMe": 0,
-    "fromHim": 12,
+    "fromYou": 6,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.42,
       "compound": -0.142,
@@ -2262,13 +2412,14 @@
     "quote": "Wanna get ready to get the band soon?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-13",
     "messageCount": 7,
-    "fromMe": 0,
-    "fromHim": 7,
+    "fromYou": 4,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.25,
       "compound": -0.213,
@@ -2277,13 +2428,14 @@
     "quote": "Can u join my test Venmo group",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-14",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 15,
+    "fromHim": 12,
     "sentiment": {
       "polarity": 0.171,
       "compound": 0.893,
@@ -2292,12 +2444,13 @@
     "quote": "Oh, that\u2019s annoying",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-15",
     "messageCount": 5,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 5,
     "sentiment": {
       "polarity": 0.35,
@@ -2307,13 +2460,14 @@
     "quote": "_Let\u2019s do the UFO sightings it\u2019s probably the best since we can show them on a map and stuff",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-16",
     "messageCount": 40,
-    "fromMe": 0,
-    "fromHim": 40,
+    "fromYou": 19,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.323,
       "compound": 0.994,
@@ -2322,13 +2476,14 @@
     "quote": "Laughed at an image",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-17",
     "messageCount": 121,
-    "fromMe": 0,
-    "fromHim": 121,
+    "fromYou": 72,
+    "fromHim": 49,
     "sentiment": {
       "polarity": -0.039,
       "compound": 0.988,
@@ -2337,13 +2492,14 @@
     "quote": "Thought it looked good",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-18",
     "messageCount": 39,
-    "fromMe": 0,
-    "fromHim": 39,
+    "fromYou": 18,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.052,
       "compound": 0.318,
@@ -2352,13 +2508,14 @@
     "quote": "We\u2019re at chicken shack now",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-19",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 2,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -2367,12 +2524,13 @@
     "quote": "Just ended and walking back",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-20",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -2382,13 +2540,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-21",
     "messageCount": 10,
-    "fromMe": 0,
-    "fromHim": 10,
+    "fromYou": 5,
+    "fromHim": 5,
     "sentiment": {
       "polarity": -0.28,
       "compound": -0.91,
@@ -2397,13 +2556,14 @@
     "quote": "Cramps so bad wtf",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-22",
     "messageCount": 23,
-    "fromMe": 0,
-    "fromHim": 23,
+    "fromYou": 15,
+    "fromHim": 8,
     "sentiment": {
       "polarity": 0.049,
       "compound": 0.872,
@@ -2412,13 +2572,14 @@
     "quote": "Oh ok idk why my phone isn\u2019t working",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-23",
     "messageCount": 11,
-    "fromMe": 0,
-    "fromHim": 11,
+    "fromYou": 7,
+    "fromHim": 4,
     "sentiment": {
       "polarity": -0.097,
       "compound": -0.834,
@@ -2427,13 +2588,14 @@
     "quote": "Oh my god there\u2019s a dead bunny",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-24",
     "messageCount": 1,
-    "fromMe": 0,
-    "fromHim": 1,
+    "fromYou": 1,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -2442,12 +2604,13 @@
     "quote": "https://www.facebook.com/share/p/1BuepACAC2/?mibextid=wwXIfr",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-25",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
@@ -2457,12 +2620,13 @@
     "quote": "https://www.northwestern.edu/healthservice-evanston/%0A",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-26",
     "messageCount": 2,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 2,
     "sentiment": {
       "polarity": 0.0,
@@ -2472,13 +2636,14 @@
     "quote": "Basketball 5:30?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-27",
     "messageCount": 55,
-    "fromMe": 0,
-    "fromHim": 55,
+    "fromYou": 29,
+    "fromHim": 26,
     "sentiment": {
       "polarity": 0.266,
       "compound": 0.917,
@@ -2487,13 +2652,14 @@
     "quote": "Is this Sophia LOL",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-28",
     "messageCount": 59,
-    "fromMe": 0,
-    "fromHim": 59,
+    "fromYou": 31,
+    "fromHim": 28,
     "sentiment": {
       "polarity": 0.125,
       "compound": 0.944,
@@ -2502,13 +2668,14 @@
     "quote": "Lol has he talked to bora?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-29",
     "messageCount": 31,
-    "fromMe": 0,
-    "fromHim": 31,
+    "fromYou": 17,
+    "fromHim": 14,
     "sentiment": {
       "polarity": -0.102,
       "compound": -0.875,
@@ -2517,13 +2684,14 @@
     "quote": "Sugar snap peas were good too",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-30",
     "messageCount": 12,
-    "fromMe": 0,
-    "fromHim": 12,
+    "fromYou": 7,
+    "fromHim": 5,
     "sentiment": {
       "polarity": 0.142,
       "compound": 0.889,
@@ -2532,13 +2700,14 @@
     "quote": "Oh yeah he\u2019s fine",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-05-31",
     "messageCount": 84,
-    "fromMe": 0,
-    "fromHim": 84,
+    "fromYou": 43,
+    "fromHim": 41,
     "sentiment": {
       "polarity": 0.194,
       "compound": 0.997,
@@ -2547,13 +2716,14 @@
     "quote": "Better not try to recreate something good",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-01",
     "messageCount": 28,
-    "fromMe": 0,
-    "fromHim": 28,
+    "fromYou": 18,
+    "fromHim": 10,
     "sentiment": {
       "polarity": 0.01,
       "compound": 0.834,
@@ -2562,13 +2732,14 @@
     "quote": "I\u2019m throwing out the pillow box outside ok?",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-02",
     "messageCount": 9,
-    "fromMe": 0,
-    "fromHim": 9,
+    "fromYou": 7,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.475,
       "compound": 0.723,
@@ -2577,13 +2748,14 @@
     "quote": "One more person\u2019s gonna come look at the room at 2 PM",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-03",
     "messageCount": 30,
-    "fromMe": 0,
-    "fromHim": 30,
+    "fromYou": 19,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.293,
       "compound": 0.887,
@@ -2592,13 +2764,14 @@
     "quote": "Ok lmk when ur here!",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-04",
     "messageCount": 20,
-    "fromMe": 0,
-    "fromHim": 20,
+    "fromYou": 12,
+    "fromHim": 8,
     "sentiment": {
       "polarity": -0.006,
       "compound": 0.501,
@@ -2607,13 +2780,14 @@
     "quote": "Oh nice u saw him!",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-05",
     "messageCount": 10,
-    "fromMe": 0,
-    "fromHim": 10,
+    "fromYou": 7,
+    "fromHim": 3,
     "sentiment": {
       "polarity": -0.375,
       "compound": 0.604,
@@ -2622,13 +2796,14 @@
     "quote": "The word search I was telling you about",
     "topEmoji": "\ud83d\ude4f",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-06",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 3,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.25,
       "compound": 0.128,
@@ -2637,13 +2812,14 @@
     "quote": "Grabbing dinner w shahz",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-07",
     "messageCount": 73,
-    "fromMe": 0,
-    "fromHim": 73,
+    "fromYou": 45,
+    "fromHim": 28,
     "sentiment": {
       "polarity": 0.277,
       "compound": 0.991,
@@ -2652,13 +2828,14 @@
     "quote": "Reacted with a sticker to \u201cWell good job!\u201d\ufffc",
     "topEmoji": "\ud83d\ude2d",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-08",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 3,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.698,
       "compound": 0.895,
@@ -2667,13 +2844,14 @@
     "quote": "hI picked a micropet just for you!\\n\\nTap this link or use my friend code 4YL7GWP9KD3 for a special reward!",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-09",
     "messageCount": 39,
-    "fromMe": 0,
-    "fromHim": 39,
+    "fromYou": 21,
+    "fromHim": 18,
     "sentiment": {
       "polarity": 0.295,
       "compound": 0.99,
@@ -2682,13 +2860,14 @@
     "quote": "Ok I\u2019ll make curry?",
     "topEmoji": "\ud83e\udee1",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-10",
     "messageCount": 13,
-    "fromMe": 0,
-    "fromHim": 13,
+    "fromYou": 7,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.248,
       "compound": 0.951,
@@ -2697,13 +2876,14 @@
     "quote": "I\u2019m sure the Ac will be on",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-11",
     "messageCount": 13,
-    "fromMe": 0,
-    "fromHim": 13,
+    "fromYou": 8,
+    "fromHim": 5,
     "sentiment": {
       "polarity": 0.193,
       "compound": 0.681,
@@ -2712,12 +2892,13 @@
     "quote": "How hot is it outside",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-12",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -2727,13 +2908,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-13",
     "messageCount": 23,
-    "fromMe": 0,
-    "fromHim": 23,
+    "fromYou": 15,
+    "fromHim": 8,
     "sentiment": {
       "polarity": -0.172,
       "compound": 0.744,
@@ -2742,13 +2924,14 @@
     "quote": "Sorry I\u2019m playing!",
     "topEmoji": "\ud83e\udd72",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-14",
     "messageCount": 182,
-    "fromMe": 0,
-    "fromHim": 182,
+    "fromYou": 113,
+    "fromHim": 69,
     "sentiment": {
       "polarity": 0.208,
       "compound": 0.999,
@@ -2757,13 +2940,14 @@
     "quote": "Aw crap it\u2019s raining",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-15",
     "messageCount": 161,
-    "fromMe": 0,
-    "fromHim": 161,
+    "fromYou": 101,
+    "fromHim": 60,
     "sentiment": {
       "polarity": 0.131,
       "compound": 0.999,
@@ -2772,13 +2956,14 @@
     "quote": "Idk her but her credentials were quite good",
     "topEmoji": "\u2764",
     "era": "Junior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-16",
     "messageCount": 271,
-    "fromMe": 0,
-    "fromHim": 271,
+    "fromYou": 170,
+    "fromHim": 101,
     "sentiment": {
       "polarity": 0.2,
       "compound": 1.0,
@@ -2787,13 +2972,14 @@
     "quote": "Nah like perfectly on time for boarding",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-17",
     "messageCount": 113,
-    "fromMe": 0,
-    "fromHim": 113,
+    "fromYou": 65,
+    "fromHim": 48,
     "sentiment": {
       "polarity": 0.294,
       "compound": 0.999,
@@ -2802,13 +2988,14 @@
     "quote": "Very good for you",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-18",
     "messageCount": 82,
-    "fromMe": 0,
-    "fromHim": 82,
+    "fromYou": 51,
+    "fromHim": 31,
     "sentiment": {
       "polarity": 0.188,
       "compound": 0.997,
@@ -2817,13 +3004,14 @@
     "quote": "I officially have a 3.6 tho :D",
     "topEmoji": "\ud83e\udd72",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-19",
     "messageCount": 115,
-    "fromMe": 0,
-    "fromHim": 115,
+    "fromYou": 69,
+    "fromHim": 46,
     "sentiment": {
       "polarity": 0.192,
       "compound": 0.999,
@@ -2832,13 +3020,14 @@
     "quote": "Ya but I gotta go in lol",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-20",
     "messageCount": 78,
-    "fromMe": 0,
-    "fromHim": 78,
+    "fromYou": 52,
+    "fromHim": 26,
     "sentiment": {
       "polarity": 0.211,
       "compound": 0.997,
@@ -2847,13 +3036,14 @@
     "quote": "BI\u2019ve figured them out it\u2019s just kinda annoying having to wait",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-21",
     "messageCount": 61,
-    "fromMe": 0,
-    "fromHim": 61,
+    "fromYou": 39,
+    "fromHim": 22,
     "sentiment": {
       "polarity": 0.164,
       "compound": 0.996,
@@ -2862,13 +3052,14 @@
     "quote": "Damn that\u2019s horrible",
     "topEmoji": "\ud83d\ude42",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-22",
     "messageCount": 198,
-    "fromMe": 0,
-    "fromHim": 198,
+    "fromYou": 113,
+    "fromHim": 85,
     "sentiment": {
       "polarity": 0.213,
       "compound": 1.0,
@@ -2877,13 +3068,14 @@
     "quote": "Loved \u201cWe\u2019re gonna go somewhere we\u2019ve been\u201d",
     "topEmoji": "\ud83d\ude2d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-23",
     "messageCount": 113,
-    "fromMe": 0,
-    "fromHim": 113,
+    "fromYou": 58,
+    "fromHim": 55,
     "sentiment": {
       "polarity": 0.182,
       "compound": 0.999,
@@ -2892,13 +3084,14 @@
     "quote": "Omg it\u2019s so boring living by myself",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-24",
     "messageCount": 57,
-    "fromMe": 0,
-    "fromHim": 57,
+    "fromYou": 32,
+    "fromHim": 25,
     "sentiment": {
       "polarity": 0.196,
       "compound": 0.978,
@@ -2907,13 +3100,14 @@
     "quote": "Loved \u201cJust finished karate here\u201d",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-25",
     "messageCount": 128,
-    "fromMe": 0,
-    "fromHim": 128,
+    "fromYou": 71,
+    "fromHim": 57,
     "sentiment": {
       "polarity": 0.16,
       "compound": 0.999,
@@ -2922,13 +3116,14 @@
     "quote": "Its the best thing ive had yet",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-26",
     "messageCount": 51,
-    "fromMe": 0,
-    "fromHim": 51,
+    "fromYou": 24,
+    "fromHim": 27,
     "sentiment": {
       "polarity": 0.193,
       "compound": 0.973,
@@ -2937,13 +3132,14 @@
     "quote": "No it\u2019s good for him to go out",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-27",
     "messageCount": 87,
-    "fromMe": 0,
-    "fromHim": 87,
+    "fromYou": 50,
+    "fromHim": 37,
     "sentiment": {
       "polarity": 0.257,
       "compound": 0.997,
@@ -2952,13 +3148,14 @@
     "quote": "Sorry I\u2019m cooking lunch for tmr",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-28",
     "messageCount": 40,
-    "fromMe": 0,
-    "fromHim": 40,
+    "fromYou": 19,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.224,
       "compound": 0.965,
@@ -2967,13 +3164,14 @@
     "quote": "I feel like ur dad would be on top of this news",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-29",
     "messageCount": 47,
-    "fromMe": 0,
-    "fromHim": 47,
+    "fromYou": 28,
+    "fromHim": 19,
     "sentiment": {
       "polarity": 0.172,
       "compound": 0.992,
@@ -2982,13 +3180,14 @@
     "quote": "Can u come see me already :( i miss u sm",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-06-30",
     "messageCount": 70,
-    "fromMe": 0,
-    "fromHim": 70,
+    "fromYou": 39,
+    "fromHim": 31,
     "sentiment": {
       "polarity": 0.101,
       "compound": 0.989,
@@ -2997,13 +3196,14 @@
     "quote": "I think my pork might\u2019ve gone bad and I still ate it \ud83d\ude2c",
     "topEmoji": "\ud83d\ude05",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-01",
     "messageCount": 71,
-    "fromMe": 0,
-    "fromHim": 71,
+    "fromYou": 37,
+    "fromHim": 34,
     "sentiment": {
       "polarity": 0.095,
       "compound": 0.994,
@@ -3012,13 +3212,14 @@
     "quote": "Teriyaki chicken w Korean bean sprout salad and cabbage!",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-02",
     "messageCount": 107,
-    "fromMe": 0,
-    "fromHim": 107,
+    "fromYou": 61,
+    "fromHim": 46,
     "sentiment": {
       "polarity": 0.252,
       "compound": 0.999,
@@ -3027,13 +3228,14 @@
     "quote": "TNeed to write some script that can tell me when the best time to get a rideshare is",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-03",
     "messageCount": 101,
-    "fromMe": 0,
-    "fromHim": 101,
+    "fromYou": 56,
+    "fromHim": 45,
     "sentiment": {
       "polarity": 0.216,
       "compound": 0.998,
@@ -3042,13 +3244,14 @@
     "quote": "Impressive actually good for her",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-04",
     "messageCount": 135,
-    "fromMe": 0,
-    "fromHim": 135,
+    "fromYou": 74,
+    "fromHim": 61,
     "sentiment": {
       "polarity": 0.136,
       "compound": 0.999,
@@ -3057,13 +3260,14 @@
     "quote": "Didn\u2019t know you could do that lol",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-05",
     "messageCount": 68,
-    "fromMe": 0,
-    "fromHim": 68,
+    "fromYou": 35,
+    "fromHim": 33,
     "sentiment": {
       "polarity": 0.256,
       "compound": 0.995,
@@ -3072,13 +3276,14 @@
     "quote": "I know I shouldn\u2019t feel like this cuz I\u2019m in a happy relationship but it feels kinda shitty that no one\u2019s hitting on me and just on Clarissa",
     "topEmoji": "\ud83d\ude34",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-06",
     "messageCount": 34,
-    "fromMe": 0,
-    "fromHim": 34,
+    "fromYou": 13,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.313,
       "compound": 0.99,
@@ -3087,13 +3292,14 @@
     "quote": "Laughed at \u201cUh oh better keep an eye on her\u201d",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-07",
     "messageCount": 25,
-    "fromMe": 0,
-    "fromHim": 25,
+    "fromYou": 13,
+    "fromHim": 12,
     "sentiment": {
       "polarity": 0.152,
       "compound": 0.962,
@@ -3102,13 +3308,14 @@
     "quote": "Sorry I ran out of data",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-08",
     "messageCount": 112,
-    "fromMe": 0,
-    "fromHim": 112,
+    "fromYou": 72,
+    "fromHim": 40,
     "sentiment": {
       "polarity": 0.121,
       "compound": 0.996,
@@ -3117,13 +3324,14 @@
     "quote": "We\u2019ll try your best to push though today",
     "topEmoji": "\ud83e\udd78",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-09",
     "messageCount": 69,
-    "fromMe": 0,
-    "fromHim": 69,
+    "fromYou": 41,
+    "fromHim": 28,
     "sentiment": {
       "polarity": 0.161,
       "compound": 0.972,
@@ -3132,13 +3340,14 @@
     "quote": "Oh its going from south to north lol",
     "topEmoji": "\ud83d\ude2d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-10",
     "messageCount": 66,
-    "fromMe": 0,
-    "fromHim": 66,
+    "fromYou": 41,
+    "fromHim": 25,
     "sentiment": {
       "polarity": 0.066,
       "compound": 0.983,
@@ -3147,13 +3356,14 @@
     "quote": "Oh thats good she apologized",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-11",
     "messageCount": 107,
-    "fromMe": 0,
-    "fromHim": 107,
+    "fromYou": 64,
+    "fromHim": 43,
     "sentiment": {
       "polarity": 0.156,
       "compound": 0.999,
@@ -3162,13 +3372,14 @@
     "quote": "Not the best kimchi but oh well",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-12",
     "messageCount": 44,
-    "fromMe": 0,
-    "fromHim": 44,
+    "fromYou": 21,
+    "fromHim": 23,
     "sentiment": {
       "polarity": 0.129,
       "compound": 0.971,
@@ -3177,13 +3388,14 @@
     "quote": "Ah that\u2019s annoying",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-13",
     "messageCount": 131,
-    "fromMe": 0,
-    "fromHim": 131,
+    "fromYou": 71,
+    "fromHim": 60,
     "sentiment": {
       "polarity": 0.298,
       "compound": 1.0,
@@ -3192,13 +3404,14 @@
     "quote": "Best Taiwanese food I\u2019ve had in America",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-14",
     "messageCount": 137,
-    "fromMe": 0,
-    "fromHim": 137,
+    "fromYou": 79,
+    "fromHim": 58,
     "sentiment": {
       "polarity": 0.079,
       "compound": 0.994,
@@ -3207,13 +3420,14 @@
     "quote": "I said good job!",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-15",
     "messageCount": 54,
-    "fromMe": 0,
-    "fromHim": 54,
+    "fromYou": 32,
+    "fromHim": 22,
     "sentiment": {
       "polarity": 0.103,
       "compound": 0.945,
@@ -3222,13 +3436,14 @@
     "quote": "But we have another one that worked lol",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-16",
     "messageCount": 51,
-    "fromMe": 0,
-    "fromHim": 51,
+    "fromYou": 28,
+    "fromHim": 23,
     "sentiment": {
       "polarity": 0.278,
       "compound": 0.998,
@@ -3237,13 +3452,14 @@
     "quote": "IWas thinking of getting the Apple Card but idk if it\u2019s the best choice",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-17",
     "messageCount": 51,
-    "fromMe": 0,
-    "fromHim": 51,
+    "fromYou": 21,
+    "fromHim": 30,
     "sentiment": {
       "polarity": 0.12,
       "compound": 0.959,
@@ -3252,13 +3468,14 @@
     "quote": "So I\u2019m probably just gonna bring bread lol",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-18",
     "messageCount": 50,
-    "fromMe": 0,
-    "fromHim": 50,
+    "fromYou": 27,
+    "fromHim": 23,
     "sentiment": {
       "polarity": 0.259,
       "compound": 0.996,
@@ -3267,13 +3484,14 @@
     "quote": "Very excited to see u tmr!!!!!!!!!",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-19",
     "messageCount": 153,
-    "fromMe": 0,
-    "fromHim": 153,
+    "fromYou": 87,
+    "fromHim": 66,
     "sentiment": {
       "polarity": 0.209,
       "compound": 0.999,
@@ -3282,12 +3500,13 @@
     "quote": "IAnd then he was thinking of taking us to the Getty as well lol so museum",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-20",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -3297,13 +3516,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-21",
     "messageCount": 72,
-    "fromMe": 0,
-    "fromHim": 72,
+    "fromYou": 42,
+    "fromHim": 30,
     "sentiment": {
       "polarity": 0.261,
       "compound": 0.993,
@@ -3312,13 +3532,14 @@
     "quote": "Nice kinda perfect timing",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-22",
     "messageCount": 35,
-    "fromMe": 0,
-    "fromHim": 35,
+    "fromYou": 19,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.268,
       "compound": 0.983,
@@ -3327,13 +3548,14 @@
     "quote": "Bad weather there too?",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-23",
     "messageCount": 44,
-    "fromMe": 0,
-    "fromHim": 44,
+    "fromYou": 22,
+    "fromHim": 22,
     "sentiment": {
       "polarity": 0.238,
       "compound": 0.994,
@@ -3342,13 +3564,14 @@
     "quote": "Had to say I was sick tho",
     "topEmoji": "\ud83d\ude18",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-24",
     "messageCount": 234,
-    "fromMe": 0,
-    "fromHim": 234,
+    "fromYou": 132,
+    "fromHim": 102,
     "sentiment": {
       "polarity": 0.06,
       "compound": 0.967,
@@ -3357,13 +3580,14 @@
     "quote": "About a Retarded man that can speak to cats",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-25",
     "messageCount": 40,
-    "fromMe": 0,
-    "fromHim": 40,
+    "fromYou": 20,
+    "fromHim": 20,
     "sentiment": {
       "polarity": 0.218,
       "compound": 0.989,
@@ -3372,13 +3596,14 @@
     "quote": "No just at the office LOL",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-26",
     "messageCount": 29,
-    "fromMe": 0,
-    "fromHim": 29,
+    "fromYou": 15,
+    "fromHim": 14,
     "sentiment": {
       "polarity": 0.18,
       "compound": 0.968,
@@ -3387,13 +3612,14 @@
     "quote": "Sorry just a bit of time to relax",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-27",
     "messageCount": 112,
-    "fromMe": 0,
-    "fromHim": 112,
+    "fromYou": 59,
+    "fromHim": 53,
     "sentiment": {
       "polarity": 0.129,
       "compound": 0.998,
@@ -3402,13 +3628,14 @@
     "quote": "Best weather here",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-28",
     "messageCount": 51,
-    "fromMe": 0,
-    "fromHim": 51,
+    "fromYou": 28,
+    "fromHim": 23,
     "sentiment": {
       "polarity": 0.028,
       "compound": -0.497,
@@ -3417,13 +3644,14 @@
     "quote": "Yeah horrible by Spain",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-29",
     "messageCount": 124,
-    "fromMe": 0,
-    "fromHim": 124,
+    "fromYou": 70,
+    "fromHim": 54,
     "sentiment": {
       "polarity": 0.238,
       "compound": 0.999,
@@ -3432,13 +3660,14 @@
     "quote": "The turnaround is kinda insane",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-30",
     "messageCount": 33,
-    "fromMe": 0,
-    "fromHim": 33,
+    "fromYou": 16,
+    "fromHim": 17,
     "sentiment": {
       "polarity": 0.057,
       "compound": 0.969,
@@ -3447,13 +3676,14 @@
     "quote": "dHuh maybe it\u2019s kinda bad in Hokkaido my parents said tw airlines have cancelled all flights there",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-07-31",
     "messageCount": 107,
-    "fromMe": 0,
-    "fromHim": 107,
+    "fromYou": 66,
+    "fromHim": 41,
     "sentiment": {
       "polarity": 0.113,
       "compound": 0.999,
@@ -3462,13 +3692,14 @@
     "quote": "Well it\u2019s in two days so give it your best shot",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-01",
     "messageCount": 114,
-    "fromMe": 0,
-    "fromHim": 114,
+    "fromYou": 75,
+    "fromHim": 39,
     "sentiment": {
       "polarity": 0.063,
       "compound": 0.995,
@@ -3477,13 +3708,14 @@
     "quote": "LHoly crap figma\u2019s stock opening price ended up valuing figma at 50 billion",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-02",
     "messageCount": 111,
-    "fromMe": 0,
-    "fromHim": 111,
+    "fromYou": 67,
+    "fromHim": 44,
     "sentiment": {
       "polarity": 0.145,
       "compound": 0.998,
@@ -3492,13 +3724,14 @@
     "quote": "Yeah the turnaround is insane",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-03",
     "messageCount": 142,
-    "fromMe": 0,
-    "fromHim": 142,
+    "fromYou": 85,
+    "fromHim": 57,
     "sentiment": {
       "polarity": 0.113,
       "compound": 0.998,
@@ -3507,13 +3740,14 @@
     "quote": "yeah that\u2019s horrible",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-04",
     "messageCount": 83,
-    "fromMe": 0,
-    "fromHim": 83,
+    "fromYou": 42,
+    "fromHim": 41,
     "sentiment": {
       "polarity": 0.257,
       "compound": 0.998,
@@ -3522,13 +3756,14 @@
     "quote": "McLaren is too good",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-05",
     "messageCount": 131,
-    "fromMe": 0,
-    "fromHim": 131,
+    "fromYou": 77,
+    "fromHim": 54,
     "sentiment": {
       "polarity": 0.183,
       "compound": 0.999,
@@ -3537,13 +3772,14 @@
     "quote": "LOL do u even enjoy it anymore",
     "topEmoji": "\ud83d\udc4d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-06",
     "messageCount": 146,
-    "fromMe": 0,
-    "fromHim": 146,
+    "fromYou": 82,
+    "fromHim": 64,
     "sentiment": {
       "polarity": 0.083,
       "compound": 0.999,
@@ -3552,13 +3788,14 @@
     "quote": "Gonna try to take a look at my finances lol",
     "topEmoji": "\ud83d\ude0d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-07",
     "messageCount": 82,
-    "fromMe": 0,
-    "fromHim": 82,
+    "fromYou": 46,
+    "fromHim": 36,
     "sentiment": {
       "polarity": 0.204,
       "compound": 0.989,
@@ -3567,13 +3804,14 @@
     "quote": "Happy something months!",
     "topEmoji": "\ud83d\udd17",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-08",
     "messageCount": 78,
-    "fromMe": 0,
-    "fromHim": 78,
+    "fromYou": 47,
+    "fromHim": 31,
     "sentiment": {
       "polarity": 0.177,
       "compound": 0.998,
@@ -3582,13 +3820,14 @@
     "quote": "WI hate to keep bothering u abt work but since u have time to spare u should do a co-op",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-09",
     "messageCount": 71,
-    "fromMe": 0,
-    "fromHim": 71,
+    "fromYou": 46,
+    "fromHim": 25,
     "sentiment": {
       "polarity": 0.109,
       "compound": 0.978,
@@ -3597,13 +3836,14 @@
     "quote": "Laughed at \u201cSushi umami\u201d",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-10",
     "messageCount": 54,
-    "fromMe": 0,
-    "fromHim": 54,
+    "fromYou": 33,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.282,
       "compound": 0.999,
@@ -3612,13 +3852,14 @@
     "quote": "dBut also would I cuz like there\u2019s no one there anyway I would just be driving around by myself LOL",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-11",
     "messageCount": 193,
-    "fromMe": 0,
-    "fromHim": 193,
+    "fromYou": 121,
+    "fromHim": 72,
     "sentiment": {
       "polarity": 0.139,
       "compound": 0.998,
@@ -3627,13 +3868,14 @@
     "quote": "Just took off lol",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-12",
     "messageCount": 119,
-    "fromMe": 0,
-    "fromHim": 119,
+    "fromYou": 77,
+    "fromHim": 42,
     "sentiment": {
       "polarity": 0.096,
       "compound": 0.999,
@@ -3642,13 +3884,14 @@
     "quote": "_Dude this is one of those situations where it would be great if we both spoke another language",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-13",
     "messageCount": 132,
-    "fromMe": 0,
-    "fromHim": 132,
+    "fromYou": 78,
+    "fromHim": 54,
     "sentiment": {
       "polarity": 0.139,
       "compound": 0.997,
@@ -3657,13 +3900,14 @@
     "quote": "lol it\u2019s the default milk option here",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-14",
     "messageCount": 55,
-    "fromMe": 0,
-    "fromHim": 55,
+    "fromYou": 37,
+    "fromHim": 18,
     "sentiment": {
       "polarity": 0.026,
       "compound": 0.986,
@@ -3672,13 +3916,14 @@
     "quote": "Have you seen guilty crown",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-15",
     "messageCount": 72,
-    "fromMe": 0,
-    "fromHim": 72,
+    "fromYou": 38,
+    "fromHim": 34,
     "sentiment": {
       "polarity": 0.295,
       "compound": 0.998,
@@ -3687,13 +3932,14 @@
     "quote": "Stranded there lol",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-16",
     "messageCount": 58,
-    "fromMe": 0,
-    "fromHim": 58,
+    "fromYou": 30,
+    "fromHim": 28,
     "sentiment": {
       "polarity": 0.255,
       "compound": 0.996,
@@ -3702,13 +3948,14 @@
     "quote": "That\u2019s impressive",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-17",
     "messageCount": 184,
-    "fromMe": 0,
-    "fromHim": 184,
+    "fromYou": 116,
+    "fromHim": 68,
     "sentiment": {
       "polarity": 0.02,
       "compound": 0.997,
@@ -3717,13 +3964,14 @@
     "quote": "That toggle is horrible",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-18",
     "messageCount": 126,
-    "fromMe": 0,
-    "fromHim": 126,
+    "fromYou": 76,
+    "fromHim": 50,
     "sentiment": {
       "polarity": 0.222,
       "compound": 0.993,
@@ -3732,13 +3980,14 @@
     "quote": "Ok perfect that\u2019s what I got",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-19",
     "messageCount": 93,
-    "fromMe": 0,
-    "fromHim": 93,
+    "fromYou": 51,
+    "fromHim": 42,
     "sentiment": {
       "polarity": 0.259,
       "compound": 0.999,
@@ -3747,13 +3996,14 @@
     "quote": "I\u2019m like impressed",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-20",
     "messageCount": 111,
-    "fromMe": 0,
-    "fromHim": 111,
+    "fromYou": 63,
+    "fromHim": 48,
     "sentiment": {
       "polarity": 0.091,
       "compound": 0.992,
@@ -3762,13 +4012,14 @@
     "quote": "Hopefully I wake up on time tmr and don\u2019t feel like crap",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-21",
     "messageCount": 89,
-    "fromMe": 0,
-    "fromHim": 89,
+    "fromYou": 51,
+    "fromHim": 38,
     "sentiment": {
       "polarity": 0.099,
       "compound": 0.998,
@@ -3777,13 +4028,14 @@
     "quote": "Happy hour at the office tmr",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-22",
     "messageCount": 94,
-    "fromMe": 0,
-    "fromHim": 94,
+    "fromYou": 53,
+    "fromHim": 41,
     "sentiment": {
       "polarity": 0.168,
       "compound": 1.0,
@@ -3792,13 +4044,14 @@
     "quote": "Very talented at getting drinks",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-23",
     "messageCount": 50,
-    "fromMe": 0,
-    "fromHim": 50,
+    "fromYou": 29,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.253,
       "compound": 0.996,
@@ -3807,13 +4060,14 @@
     "quote": "Say u wanna call me :D",
     "topEmoji": "\ud83d\ude14",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-24",
     "messageCount": 281,
-    "fromMe": 0,
-    "fromHim": 281,
+    "fromYou": 166,
+    "fromHim": 115,
     "sentiment": {
       "polarity": 0.129,
       "compound": 1.0,
@@ -3822,13 +4076,14 @@
     "quote": "Yeah isn\u2019t it crazy!!",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-25",
     "messageCount": 66,
-    "fromMe": 0,
-    "fromHim": 66,
+    "fromYou": 38,
+    "fromHim": 28,
     "sentiment": {
       "polarity": 0.162,
       "compound": 0.985,
@@ -3837,13 +4092,14 @@
     "quote": "Mark looks very happy in all of them",
     "topEmoji": "\ud83d\ude2d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-26",
     "messageCount": 33,
-    "fromMe": 0,
-    "fromHim": 33,
+    "fromYou": 18,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.235,
       "compound": 0.987,
@@ -3852,13 +4108,14 @@
     "quote": "Ooooo always wanted to go to a magic show",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-27",
     "messageCount": 130,
-    "fromMe": 0,
-    "fromHim": 130,
+    "fromYou": 69,
+    "fromHim": 61,
     "sentiment": {
       "polarity": 0.234,
       "compound": 0.999,
@@ -3867,13 +4124,14 @@
     "quote": "When is the happy hour",
     "topEmoji": "\ud83d\ude2d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-28",
     "messageCount": 107,
-    "fromMe": 0,
-    "fromHim": 107,
+    "fromYou": 57,
+    "fromHim": 50,
     "sentiment": {
       "polarity": 0.178,
       "compound": 0.999,
@@ -3882,13 +4140,14 @@
     "quote": "But dealing w some nasty bugs elsewhere",
     "topEmoji": "\ud83e\udd79",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-29",
     "messageCount": 56,
-    "fromMe": 0,
-    "fromHim": 56,
+    "fromYou": 33,
+    "fromHim": 23,
     "sentiment": {
       "polarity": 0.237,
       "compound": 0.991,
@@ -3897,13 +4156,14 @@
     "quote": "Well it was a good idea to ask",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-30",
     "messageCount": 54,
-    "fromMe": 0,
-    "fromHim": 54,
+    "fromYou": 30,
+    "fromHim": 24,
     "sentiment": {
       "polarity": 0.24,
       "compound": 0.992,
@@ -3912,13 +4172,14 @@
     "quote": "Happy Taiwanese valentines!",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-08-31",
     "messageCount": 465,
-    "fromMe": 0,
-    "fromHim": 465,
+    "fromYou": 282,
+    "fromHim": 183,
     "sentiment": {
       "polarity": 0.194,
       "compound": 1.0,
@@ -3927,13 +4188,14 @@
     "quote": "Not the best ones\ud83d\ude05",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-01",
     "messageCount": 123,
-    "fromMe": 0,
-    "fromHim": 123,
+    "fromYou": 68,
+    "fromHim": 55,
     "sentiment": {
       "polarity": 0.126,
       "compound": 0.997,
@@ -3942,13 +4204,14 @@
     "quote": "Well try your best",
     "topEmoji": "\ud83d\ude2d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-02",
     "messageCount": 101,
-    "fromMe": 0,
-    "fromHim": 101,
+    "fromYou": 57,
+    "fromHim": 44,
     "sentiment": {
       "polarity": 0.22,
       "compound": 0.998,
@@ -3957,13 +4220,14 @@
     "quote": "lol we GOTTA talk to the guys about rent",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-03",
     "messageCount": 130,
-    "fromMe": 0,
-    "fromHim": 130,
+    "fromYou": 77,
+    "fromHim": 53,
     "sentiment": {
       "polarity": 0.215,
       "compound": 0.999,
@@ -3972,13 +4236,14 @@
     "quote": "My mom was really happy with the grass jelly",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-04",
     "messageCount": 101,
-    "fromMe": 0,
-    "fromHim": 101,
+    "fromYou": 62,
+    "fromHim": 39,
     "sentiment": {
       "polarity": 0.087,
       "compound": 0.977,
@@ -3987,13 +4252,14 @@
     "quote": "The rain in the afternoon is kinda insane every day",
     "topEmoji": "\ud83d\ude2d",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-05",
     "messageCount": 143,
-    "fromMe": 0,
-    "fromHim": 143,
+    "fromYou": 83,
+    "fromHim": 60,
     "sentiment": {
       "polarity": 0.145,
       "compound": 0.999,
@@ -4002,13 +4268,14 @@
     "quote": "oh LOL that\u2019s what ur holding",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-06",
     "messageCount": 126,
-    "fromMe": 0,
-    "fromHim": 126,
+    "fromYou": 71,
+    "fromHim": 55,
     "sentiment": {
       "polarity": 0.112,
       "compound": 0.999,
@@ -4017,13 +4284,14 @@
     "quote": "And worst case i don\u2019t get fined and they take it",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-07",
     "messageCount": 86,
-    "fromMe": 0,
-    "fromHim": 86,
+    "fromYou": 53,
+    "fromHim": 33,
     "sentiment": {
       "polarity": 0.265,
       "compound": 0.998,
@@ -4032,13 +4300,14 @@
     "quote": "Loved \u201cWell I can take a look\u201d",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-08",
     "messageCount": 112,
-    "fromMe": 0,
-    "fromHim": 112,
+    "fromYou": 61,
+    "fromHim": 51,
     "sentiment": {
       "polarity": 0.22,
       "compound": 0.998,
@@ -4047,13 +4316,14 @@
     "quote": "Loved \u201cHeaded out\u201d",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-09",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 5,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.153,
@@ -4062,13 +4332,14 @@
     "quote": "BAccept your invite for NORIKO on Monday 29 September at 5:00pm.",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-10",
     "messageCount": 1,
-    "fromMe": 0,
-    "fromHim": 1,
+    "fromYou": 1,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -4077,13 +4348,14 @@
     "quote": "Xn74cAOyZsF",
     "topEmoji": "",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-11",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 2,
+    "fromHim": 2,
     "sentiment": {
       "polarity": -0.157,
       "compound": -0.34,
@@ -4092,13 +4364,14 @@
     "quote": "People are actually crazy",
     "topEmoji": "\ud83e\udd1f",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-12",
     "messageCount": 154,
-    "fromMe": 0,
-    "fromHim": 154,
+    "fromYou": 91,
+    "fromHim": 63,
     "sentiment": {
       "polarity": 0.109,
       "compound": 0.998,
@@ -4107,13 +4380,14 @@
     "quote": "Foreigner line still gets kinda insane in haneda tho",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-13",
     "messageCount": 234,
-    "fromMe": 0,
-    "fromHim": 234,
+    "fromYou": 131,
+    "fromHim": 103,
     "sentiment": {
       "polarity": 0.206,
       "compound": 1.0,
@@ -4122,13 +4396,14 @@
     "quote": "Laughed at \u201cMe too!\u201d",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-14",
     "messageCount": 176,
-    "fromMe": 0,
-    "fromHim": 176,
+    "fromYou": 110,
+    "fromHim": 66,
     "sentiment": {
       "polarity": 0.164,
       "compound": 1.0,
@@ -4137,13 +4412,14 @@
     "quote": "Why are you like best friends with this guy for no reason",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-15",
     "messageCount": 198,
-    "fromMe": 0,
-    "fromHim": 198,
+    "fromYou": 108,
+    "fromHim": 90,
     "sentiment": {
       "polarity": 0.168,
       "compound": 0.997,
@@ -4152,13 +4428,14 @@
     "quote": "Omf its so nasty",
     "topEmoji": "\u2764",
     "era": "Summer 2025",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-16",
     "messageCount": 220,
-    "fromMe": 0,
-    "fromHim": 220,
+    "fromYou": 139,
+    "fromHim": 81,
     "sentiment": {
       "polarity": 0.162,
       "compound": 0.999,
@@ -4167,13 +4444,14 @@
     "quote": "My schedule is all cs this quarter lol",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-17",
     "messageCount": 39,
-    "fromMe": 0,
-    "fromHim": 39,
+    "fromYou": 24,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.171,
       "compound": 0.98,
@@ -4182,13 +4460,14 @@
     "quote": "KI was gonna not use the crockpot but then I was like maybe thats too weird",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-18",
     "messageCount": 28,
-    "fromMe": 0,
-    "fromHim": 28,
+    "fromYou": 15,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.221,
       "compound": 0.954,
@@ -4197,13 +4476,14 @@
     "quote": "Loved \u201cFound it \ud83d\udc4d\u201d",
     "topEmoji": "\ud83d\udc4d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-19",
     "messageCount": 47,
-    "fromMe": 0,
-    "fromHim": 47,
+    "fromYou": 28,
+    "fromHim": 19,
     "sentiment": {
       "polarity": 0.303,
       "compound": 0.997,
@@ -4212,13 +4492,14 @@
     "quote": "Did you know we were going to happy hour at 4pm????",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-20",
     "messageCount": 40,
-    "fromMe": 0,
-    "fromHim": 40,
+    "fromYou": 22,
+    "fromHim": 18,
     "sentiment": {
       "polarity": 0.358,
       "compound": 0.945,
@@ -4227,13 +4508,14 @@
     "quote": "Nope I\u2019m good! Thank u",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-21",
     "messageCount": 9,
-    "fromMe": 0,
-    "fromHim": 9,
+    "fromYou": 5,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.621,
       "compound": 0.986,
@@ -4242,13 +4524,14 @@
     "quote": "They\u2019re walking happily with hats lol",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-22",
     "messageCount": 26,
-    "fromMe": 0,
-    "fromHim": 26,
+    "fromYou": 11,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.3,
       "compound": 0.918,
@@ -4257,13 +4540,14 @@
     "quote": "Maybe kombucha is better",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-23",
     "messageCount": 26,
-    "fromMe": 0,
-    "fromHim": 26,
+    "fromYou": 14,
+    "fromHim": 12,
     "sentiment": {
       "polarity": 0.154,
       "compound": 0.846,
@@ -4272,13 +4556,14 @@
     "quote": "Its drizzling rn lol",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-24",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 14,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.115,
       "compound": 0.867,
@@ -4287,13 +4572,14 @@
     "quote": "What that\u2019s crazy",
     "topEmoji": "\ud83d\ude35",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-25",
     "messageCount": 64,
-    "fromMe": 0,
-    "fromHim": 64,
+    "fromYou": 39,
+    "fromHim": 25,
     "sentiment": {
       "polarity": 0.047,
       "compound": -0.712,
@@ -4302,13 +4588,14 @@
     "quote": "Liked \u201cTake them out pls\u201d",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-26",
     "messageCount": 24,
-    "fromMe": 0,
-    "fromHim": 24,
+    "fromYou": 14,
+    "fromHim": 10,
     "sentiment": {
       "polarity": 0.065,
       "compound": 0.768,
@@ -4317,13 +4604,14 @@
     "quote": "BForgot my card pin and then the fucking chase app started working",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-27",
     "messageCount": 11,
-    "fromMe": 0,
-    "fromHim": 11,
+    "fromYou": 5,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.07,
       "compound": 0.372,
@@ -4332,13 +4620,14 @@
     "quote": "Probably nice there",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-28",
     "messageCount": 10,
-    "fromMe": 0,
-    "fromHim": 10,
+    "fromYou": 8,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.007,
       "compound": 0.715,
@@ -4347,13 +4636,14 @@
     "quote": "Kinda starting to annoy me that boras always talking super loud on the phone and slamming the doors and his phone is always on the loudest ringer \ud83d\ude17",
     "topEmoji": "\ud83e\udd23",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-29",
     "messageCount": 8,
-    "fromMe": 0,
-    "fromHim": 8,
+    "fromYou": 5,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.05,
       "compound": 0.507,
@@ -4362,13 +4652,14 @@
     "quote": "Laughed at an image",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-09-30",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 4,
+    "fromHim": 2,
     "sentiment": {
       "polarity": -0.14,
       "compound": 0.855,
@@ -4377,13 +4668,14 @@
     "quote": "Esports is crazy",
     "topEmoji": "\ud83d\udc80",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-01",
     "messageCount": 42,
-    "fromMe": 0,
-    "fromHim": 42,
+    "fromYou": 28,
+    "fromHim": 14,
     "sentiment": {
       "polarity": 0.302,
       "compound": 0.981,
@@ -4392,13 +4684,14 @@
     "quote": "Crap I need my laptop charger",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-02",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 2,
+    "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -4407,13 +4700,14 @@
     "quote": "dhttps://docs.google.com/presentation/d/1cf4SN5giA7xLg3-4kh_o_c6lb_cEp6Q-sgEgVs4wWEk/edit?usp=sharing",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-03",
     "messageCount": 128,
-    "fromMe": 0,
-    "fromHim": 128,
+    "fromYou": 83,
+    "fromHim": 45,
     "sentiment": {
       "polarity": 0.114,
       "compound": 0.998,
@@ -4422,13 +4716,14 @@
     "quote": "Booo boring reaction",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-04",
     "messageCount": 59,
-    "fromMe": 0,
-    "fromHim": 59,
+    "fromYou": 30,
+    "fromHim": 29,
     "sentiment": {
       "polarity": 0.047,
       "compound": 0.971,
@@ -4437,13 +4732,14 @@
     "quote": "Yeah this is kinda crazy",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-05",
     "messageCount": 122,
-    "fromMe": 0,
-    "fromHim": 122,
+    "fromYou": 73,
+    "fromHim": 49,
     "sentiment": {
       "polarity": 0.031,
       "compound": 0.998,
@@ -4452,13 +4748,14 @@
     "quote": "Yeah that\u2019s insane",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-06",
     "messageCount": 24,
-    "fromMe": 0,
-    "fromHim": 24,
+    "fromYou": 11,
+    "fromHim": 13,
     "sentiment": {
       "polarity": 0.207,
       "compound": 0.933,
@@ -4467,13 +4764,14 @@
     "quote": "Devan was arguing w me yesterday again about sea ranch LOL",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-07",
     "messageCount": 14,
-    "fromMe": 0,
-    "fromHim": 14,
+    "fromYou": 9,
+    "fromHim": 5,
     "sentiment": {
       "polarity": 0.417,
       "compound": 0.848,
@@ -4482,13 +4780,14 @@
     "quote": "Maybe you should go to the McCormick Engineering MS Program Fair",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-08",
     "messageCount": 34,
-    "fromMe": 0,
-    "fromHim": 34,
+    "fromYou": 19,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.093,
       "compound": 0.943,
@@ -4497,13 +4796,14 @@
     "quote": "Some sort of chicken sausage ?",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-09",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 4,
+    "fromHim": 1,
     "sentiment": {
       "polarity": -0.3,
       "compound": 0.241,
@@ -4512,13 +4812,14 @@
     "quote": "NAccept your invite for Boqueria - Chicago on Saturday 11 October at 6:15pm.",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-10",
     "messageCount": 28,
-    "fromMe": 0,
-    "fromHim": 28,
+    "fromYou": 18,
+    "fromHim": 10,
     "sentiment": {
       "polarity": 0.275,
       "compound": 0.97,
@@ -4527,13 +4828,14 @@
     "quote": "I just remembered I have to get my packages LOL",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-11",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 3,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.6,
       "compound": 0.82,
@@ -4542,12 +4844,13 @@
     "quote": "There\u2019s a stardew valley concert in Chicago HAHA",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-12",
     "messageCount": 1,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 1,
     "sentiment": {
       "polarity": 0.0,
@@ -4557,12 +4860,13 @@
     "quote": "[media]",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-13",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -4572,13 +4876,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-14",
     "messageCount": 40,
-    "fromMe": 0,
-    "fromHim": 40,
+    "fromYou": 26,
+    "fromHim": 14,
     "sentiment": {
       "polarity": 0.075,
       "compound": 0.792,
@@ -4587,13 +4892,14 @@
     "quote": "IThis girl got kinda pressed and tried to fight this guy in the class lol",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-15",
     "messageCount": 34,
-    "fromMe": 0,
-    "fromHim": 34,
+    "fromYou": 23,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.1,
       "compound": 0.845,
@@ -4602,13 +4908,14 @@
     "quote": "This is what kanan needs to get on lol",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-16",
     "messageCount": 13,
-    "fromMe": 0,
-    "fromHim": 13,
+    "fromYou": 8,
+    "fromHim": 5,
     "sentiment": {
       "polarity": 0.25,
       "compound": 0.93,
@@ -4617,13 +4924,14 @@
     "quote": "I like looked at him and was gonna wave but then he dipped lol",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-17",
     "messageCount": 50,
-    "fromMe": 0,
-    "fromHim": 50,
+    "fromYou": 27,
+    "fromHim": 23,
     "sentiment": {
       "polarity": 0.13,
       "compound": 0.948,
@@ -4632,13 +4940,14 @@
     "quote": "Just noticed this LOL",
     "topEmoji": "\ud83d\udc79",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-18",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 16,
+    "fromHim": 11,
     "sentiment": {
       "polarity": 0.128,
       "compound": 0.907,
@@ -4647,13 +4956,14 @@
     "quote": "Will the courts be fine",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-19",
     "messageCount": 8,
-    "fromMe": 0,
-    "fromHim": 8,
+    "fromYou": 5,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.2,
       "compound": 0.487,
@@ -4662,13 +4972,14 @@
     "quote": "It\u2019s family weekend and game day lol",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-20",
     "messageCount": 16,
-    "fromMe": 0,
-    "fromHim": 16,
+    "fromYou": 12,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.267,
       "compound": 0.94,
@@ -4677,13 +4988,14 @@
     "quote": "CThose were specific things the recruiter pointed out would be good",
     "topEmoji": "\ud83d\udc79",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-21",
     "messageCount": 8,
-    "fromMe": 0,
-    "fromHim": 8,
+    "fromYou": 5,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.1,
       "compound": 0.824,
@@ -4692,13 +5004,14 @@
     "quote": "Laughed at an image",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-22",
     "messageCount": 117,
-    "fromMe": 0,
-    "fromHim": 117,
+    "fromYou": 65,
+    "fromHim": 52,
     "sentiment": {
       "polarity": 0.169,
       "compound": 0.997,
@@ -4707,13 +5020,14 @@
     "quote": "Looks like she\u2019s 50 lol",
     "topEmoji": "\ud83e\udd72",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-23",
     "messageCount": 16,
-    "fromMe": 0,
-    "fromHim": 16,
+    "fromYou": 8,
+    "fromHim": 8,
     "sentiment": {
       "polarity": 0.317,
       "compound": 0.953,
@@ -4722,13 +5036,14 @@
     "quote": "Laughed at an image",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-24",
     "messageCount": 58,
-    "fromMe": 0,
-    "fromHim": 58,
+    "fromYou": 36,
+    "fromHim": 22,
     "sentiment": {
       "polarity": 0.08,
       "compound": 0.993,
@@ -4737,13 +5052,14 @@
     "quote": "Just found out vivi lama is in my data sconce class LOL",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-25",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 17,
+    "fromHim": 10,
     "sentiment": {
       "polarity": 0.067,
       "compound": 0.954,
@@ -4752,13 +5068,14 @@
     "quote": "Ur stomach fine?",
     "topEmoji": "\ud83d\udc80",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-26",
     "messageCount": 22,
-    "fromMe": 0,
-    "fromHim": 22,
+    "fromYou": 18,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.48,
       "compound": 0.959,
@@ -4767,13 +5084,14 @@
     "quote": "OCan\u2019t decide between the three in my basket LOL I\u2019ll wait for u to come out",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-27",
     "messageCount": 33,
-    "fromMe": 0,
-    "fromHim": 33,
+    "fromYou": 18,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.048,
       "compound": 0.964,
@@ -4782,13 +5100,14 @@
     "quote": "The music downstairs is kinda crazy",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-28",
     "messageCount": 24,
-    "fromMe": 0,
-    "fromHim": 24,
+    "fromYou": 15,
+    "fromHim": 9,
     "sentiment": {
       "polarity": 0.359,
       "compound": 0.867,
@@ -4797,13 +5116,14 @@
     "quote": "Called them lmao",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-29",
     "messageCount": 72,
-    "fromMe": 0,
-    "fromHim": 72,
+    "fromYou": 40,
+    "fromHim": 32,
     "sentiment": {
       "polarity": 0.251,
       "compound": 0.997,
@@ -4812,13 +5132,14 @@
     "quote": "They\u2019re so annoying w that \\n\\nattached at the hip",
     "topEmoji": "\ud83d\udca2",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-30",
     "messageCount": 67,
-    "fromMe": 0,
-    "fromHim": 67,
+    "fromYou": 36,
+    "fromHim": 31,
     "sentiment": {
       "polarity": 0.263,
       "compound": 0.994,
@@ -4827,13 +5148,14 @@
     "quote": "Someone wasnt happy",
     "topEmoji": "\ud83d\udc4d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-10-31",
     "messageCount": 64,
-    "fromMe": 0,
-    "fromHim": 64,
+    "fromYou": 35,
+    "fromHim": 29,
     "sentiment": {
       "polarity": 0.2,
       "compound": 0.954,
@@ -4842,13 +5164,14 @@
     "quote": "Well good you\u2019re not flying",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-01",
     "messageCount": 86,
-    "fromMe": 0,
-    "fromHim": 86,
+    "fromYou": 53,
+    "fromHim": 33,
     "sentiment": {
       "polarity": 0.207,
       "compound": 0.919,
@@ -4857,13 +5180,14 @@
     "quote": "Pizza sauce went bad",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-02",
     "messageCount": 49,
-    "fromMe": 0,
-    "fromHim": 49,
+    "fromYou": 28,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.001,
       "compound": 0.994,
@@ -4872,13 +5196,14 @@
     "quote": "The line into tao was insane",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-03",
     "messageCount": 17,
-    "fromMe": 0,
-    "fromHim": 17,
+    "fromYou": 11,
+    "fromHim": 6,
     "sentiment": {
       "polarity": 0.151,
       "compound": 0.904,
@@ -4887,13 +5212,14 @@
     "quote": "This guy smells bad",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-04",
     "messageCount": 7,
-    "fromMe": 0,
-    "fromHim": 7,
+    "fromYou": 5,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.2,
       "compound": 0.572,
@@ -4902,13 +5228,14 @@
     "quote": "He\u2019s back so early",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-05",
     "messageCount": 46,
-    "fromMe": 0,
-    "fromHim": 46,
+    "fromYou": 29,
+    "fromHim": 17,
     "sentiment": {
       "polarity": 0.03,
       "compound": 0.967,
@@ -4917,13 +5244,14 @@
     "quote": "She sounds really annoying",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-06",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 2,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.25,
       "compound": 0.325,
@@ -4932,13 +5260,14 @@
     "quote": "Does bora not own AirPods or what",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-07",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 1,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.4,
       "compound": 0.984,
@@ -4947,13 +5276,14 @@
     "quote": "Siggies just soooo cool \ud83e\udd19\ud83c\udffb \ud83e\udd19\ud83c\udffb \ud83e\udd19\ud83c\udffb \ud83e\udd19\ud83c\udffb",
     "topEmoji": "\ud83e\udd19",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-08",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 3,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.45,
       "compound": 0.844,
@@ -4962,13 +5292,14 @@
     "quote": "Choc chips we keep running out lol",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-09",
     "messageCount": 17,
-    "fromMe": 0,
-    "fromHim": 17,
+    "fromYou": 10,
+    "fromHim": 7,
     "sentiment": {
       "polarity": 0.037,
       "compound": 0.952,
@@ -4977,13 +5308,14 @@
     "quote": "FShe asked me why I baked and then if it was for fun or as a hobby \ud83d\udc79",
     "topEmoji": "\ud83d\udc79",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-10",
     "messageCount": 6,
-    "fromMe": 0,
-    "fromHim": 6,
+    "fromYou": 4,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.7,
       "compound": 0.402,
@@ -4992,13 +5324,14 @@
     "quote": "Loved \u201cBurger with egg\u201d",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-11",
     "messageCount": 7,
-    "fromMe": 0,
-    "fromHim": 7,
+    "fromYou": 3,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.0,
       "compound": -0.749,
@@ -5007,13 +5340,14 @@
     "quote": "Someone in crocs",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-12",
     "messageCount": 17,
-    "fromMe": 0,
-    "fromHim": 17,
+    "fromYou": 9,
+    "fromHim": 8,
     "sentiment": {
       "polarity": 0.246,
       "compound": 0.952,
@@ -5022,13 +5356,14 @@
     "quote": "KIt\u2019s the pan full of water because it was put like that in the dishwasher",
     "topEmoji": "\ud83d\ude1d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-13",
     "messageCount": 3,
-    "fromMe": 0,
-    "fromHim": 3,
+    "fromYou": 1,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.113,
@@ -5037,13 +5372,14 @@
     "quote": "Pls start studying when you\u2019re up!",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-14",
     "messageCount": 14,
-    "fromMe": 0,
-    "fromHim": 14,
+    "fromYou": 9,
+    "fromHim": 5,
     "sentiment": {
       "polarity": -0.038,
       "compound": 0.572,
@@ -5052,13 +5388,14 @@
     "quote": "Yeah that\u2019s annoying",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-15",
     "messageCount": 10,
-    "fromMe": 0,
-    "fromHim": 10,
+    "fromYou": 6,
+    "fromHim": 4,
     "sentiment": {
       "polarity": 0.35,
       "compound": 0.684,
@@ -5067,13 +5404,14 @@
     "quote": "kI also made a reservation 8:45 for Robert\u2019s pizza if we want to do somewhere not as snobby but still good",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-16",
     "messageCount": 60,
-    "fromMe": 0,
-    "fromHim": 60,
+    "fromYou": 39,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.387,
       "compound": 0.999,
@@ -5082,13 +5420,14 @@
     "quote": "Good luck tmr!! \u2764\ufe0f",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-17",
     "messageCount": 181,
-    "fromMe": 0,
-    "fromHim": 181,
+    "fromYou": 102,
+    "fromHim": 79,
     "sentiment": {
       "polarity": 0.071,
       "compound": 0.999,
@@ -5097,13 +5436,14 @@
     "quote": "Loved \u201cHe liked the cookies!\u201d",
     "topEmoji": "\ud83e\udd29",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-18",
     "messageCount": 29,
-    "fromMe": 0,
-    "fromHim": 29,
+    "fromYou": 19,
+    "fromHim": 10,
     "sentiment": {
       "polarity": 0.337,
       "compound": 0.979,
@@ -5112,13 +5452,14 @@
     "quote": "Ok sure what time do you want to do",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-19",
     "messageCount": 12,
-    "fromMe": 0,
-    "fromHim": 12,
+    "fromYou": 7,
+    "fromHim": 5,
     "sentiment": {
       "polarity": 0.127,
       "compound": 0.944,
@@ -5127,12 +5468,13 @@
     "quote": "Its soooo miserable today",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-20",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -5142,13 +5484,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": "Took Grad Pics in Norris"
+    "milestone": "Took Grad Pics in Norris",
+    "isApart": false
   },
   {
     "date": "2025-11-21",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 12,
+    "fromHim": 15,
     "sentiment": {
       "polarity": 0.289,
       "compound": 0.986,
@@ -5157,12 +5500,13 @@
     "quote": "I\u2019ve gotten so many compliments on this jacket",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-22",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -5172,13 +5516,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-23",
     "messageCount": 5,
-    "fromMe": 0,
-    "fromHim": 5,
+    "fromYou": 2,
+    "fromHim": 3,
     "sentiment": {
       "polarity": 0.05,
       "compound": 0.66,
@@ -5187,12 +5532,13 @@
     "quote": "Oops they were making out loudly in the living room",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": "First Thanksgiving Together & Luke Gets Accepted to EE Masters"
+    "milestone": "First Thanksgiving Together & Luke Gets Accepted to EE Masters",
+    "isApart": false
   },
   {
     "date": "2025-11-24",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -5202,13 +5548,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-25",
     "messageCount": 47,
-    "fromMe": 0,
-    "fromHim": 47,
+    "fromYou": 26,
+    "fromHim": 21,
     "sentiment": {
       "polarity": 0.199,
       "compound": 0.924,
@@ -5217,13 +5564,14 @@
     "quote": "I hate moths I despise them",
     "topEmoji": "\ud83e\udee3",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-26",
     "messageCount": 27,
-    "fromMe": 0,
-    "fromHim": 27,
+    "fromYou": 19,
+    "fromHim": 8,
     "sentiment": {
       "polarity": 0.157,
       "compound": 0.931,
@@ -5232,13 +5580,14 @@
     "quote": "HSo 179 for 3 wineries + tour guide + transport is actually pretty good ?",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-27",
     "messageCount": 4,
-    "fromMe": 0,
-    "fromHim": 4,
+    "fromYou": 4,
+    "fromHim": 0,
     "sentiment": {
       "polarity": 0.467,
       "compound": 0.494,
@@ -5247,12 +5596,13 @@
     "quote": "I wanna ask what company she works at lol",
     "topEmoji": "\ud83d\udc80",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-28",
     "messageCount": 0,
-    "fromMe": 0,
+    "fromYou": 0,
     "fromHim": 0,
     "sentiment": {
       "polarity": 0.0,
@@ -5262,13 +5612,14 @@
     "quote": "",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-29",
     "messageCount": 7,
-    "fromMe": 0,
-    "fromHim": 7,
+    "fromYou": 5,
+    "fromHim": 2,
     "sentiment": {
       "polarity": 0.0,
       "compound": 0.0,
@@ -5277,13 +5628,14 @@
     "quote": "dhttps://docs.google.com/presentation/d/1XIITYBiQUd9YUB1hdqiOJRQkQO-9pH7s2tsFO2L6ejk/edit?usp=sharing",
     "topEmoji": "",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-11-30",
     "messageCount": 35,
-    "fromMe": 0,
-    "fromHim": 35,
+    "fromYou": 19,
+    "fromHim": 16,
     "sentiment": {
       "polarity": 0.406,
       "compound": 0.985,
@@ -5292,13 +5644,14 @@
     "quote": "Can u also get the chocolate croissant :D",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-01",
     "messageCount": 356,
-    "fromMe": 0,
-    "fromHim": 356,
+    "fromYou": 225,
+    "fromHim": 131,
     "sentiment": {
       "polarity": 0.17,
       "compound": 1.0,
@@ -5307,13 +5660,14 @@
     "quote": "We\u2019ll try your best",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-02",
     "messageCount": 71,
-    "fromMe": 0,
-    "fromHim": 71,
+    "fromYou": 40,
+    "fromHim": 31,
     "sentiment": {
       "polarity": 0.249,
       "compound": 0.97,
@@ -5322,13 +5676,14 @@
     "quote": "I paid in US dollars cuz my cousin didn\u2019t have the cash lol",
     "topEmoji": "\ud83d\ude47",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-03",
     "messageCount": 139,
-    "fromMe": 0,
-    "fromHim": 139,
+    "fromYou": 86,
+    "fromHim": 53,
     "sentiment": {
       "polarity": 0.139,
       "compound": 0.999,
@@ -5337,13 +5692,14 @@
     "quote": "Everyone is happy about the cookies!",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-04",
     "messageCount": 125,
-    "fromMe": 0,
-    "fromHim": 125,
+    "fromYou": 85,
+    "fromHim": 40,
     "sentiment": {
       "polarity": 0.174,
       "compound": 0.999,
@@ -5352,13 +5708,14 @@
     "quote": "Skipped the line cuz of ttp =D",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-05",
     "messageCount": 137,
-    "fromMe": 0,
-    "fromHim": 137,
+    "fromYou": 80,
+    "fromHim": 57,
     "sentiment": {
       "polarity": 0.182,
       "compound": 0.999,
@@ -5367,13 +5724,14 @@
     "quote": "Good photo with the snow falling",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-06",
     "messageCount": 107,
-    "fromMe": 0,
-    "fromHim": 107,
+    "fromYou": 64,
+    "fromHim": 43,
     "sentiment": {
       "polarity": 0.198,
       "compound": 0.997,
@@ -5382,13 +5740,14 @@
     "quote": "Perfect for you!",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-07",
     "messageCount": 216,
-    "fromMe": 0,
-    "fromHim": 216,
+    "fromYou": 122,
+    "fromHim": 94,
     "sentiment": {
       "polarity": 0.079,
       "compound": 0.998,
@@ -5397,13 +5756,14 @@
     "quote": "Or she\u2019s messing with him because she\u2019s pathetic",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-08",
     "messageCount": 47,
-    "fromMe": 0,
-    "fromHim": 47,
+    "fromYou": 32,
+    "fromHim": 15,
     "sentiment": {
       "polarity": -0.025,
       "compound": -0.984,
@@ -5412,13 +5772,14 @@
     "quote": "Oh crap he didn\u2019t know she was upset about another guy that wasn\u2019t him \ud83d\ude47\ud83c\udffb\u2640\ufe0f",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-09",
     "messageCount": 54,
-    "fromMe": 0,
-    "fromHim": 54,
+    "fromYou": 28,
+    "fromHim": 26,
     "sentiment": {
       "polarity": 0.114,
       "compound": 0.979,
@@ -5427,13 +5788,14 @@
     "quote": "Interview got rescheduled again lol",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-10",
     "messageCount": 41,
-    "fromMe": 0,
-    "fromHim": 41,
+    "fromYou": 22,
+    "fromHim": 19,
     "sentiment": {
       "polarity": 0.288,
       "compound": 0.988,
@@ -5442,13 +5804,14 @@
     "quote": "Good luck today!",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-11",
     "messageCount": 177,
-    "fromMe": 0,
-    "fromHim": 177,
+    "fromYou": 100,
+    "fromHim": 77,
     "sentiment": {
       "polarity": 0.201,
       "compound": 0.998,
@@ -5457,13 +5820,14 @@
     "quote": "So I might have to fly from Japan",
     "topEmoji": "\ud83d\ude2d",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-12",
     "messageCount": 133,
-    "fromMe": 0,
-    "fromHim": 133,
+    "fromYou": 83,
+    "fromHim": 50,
     "sentiment": {
       "polarity": 0.023,
       "compound": 0.996,
@@ -5472,13 +5836,14 @@
     "quote": "Yeah it\u2019s terrible",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   },
   {
     "date": "2025-12-13",
     "messageCount": 114,
-    "fromMe": 0,
-    "fromHim": 114,
+    "fromYou": 61,
+    "fromHim": 53,
     "sentiment": {
       "polarity": 0.266,
       "compound": 0.999,
@@ -5487,6 +5852,7 @@
     "quote": "Ok text you when I land!",
     "topEmoji": "\u2764",
     "era": "Senior Year",
-    "milestone": null
+    "milestone": null,
+    "isApart": false
   }
 ]
