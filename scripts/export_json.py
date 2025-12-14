@@ -29,11 +29,16 @@ print(f"Exported {len(data)} days to JSON")
 
 stats = {
     'totalDays': len(data),
+    'daysTogether': len(data) - int(df['is_apart'].sum()),
+    'daysApart': int(df['is_apart'].sum()),
     'totalMessages': int(df['message_count'].sum()),
-    'avgMessagesPerDay': float(df['message_count'].mean()),
+    'avgMessagesPerDay': float(df['message_count'].mean().round(2)),
     'erasBreakdown': df['era'].value_counts().to_dict(),
-    'sentimentBreakdown': df['sentiment_label'].value_counts().to_dict()
+    'sentimentBreakdown': df['sentiment_label'].value_counts().to_dict(),
+    'apartAvg': df[df['is_apart']]['message_count'].mean().round(2),
+    'togetherAvg': df[~df['is_apart']]['message_count'].mean().round(2)
 }
+
 
 with open('src/data/stats.json', 'w+') as f:
     json.dump(stats, f, indent=2)

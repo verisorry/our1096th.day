@@ -4,7 +4,7 @@
 
 import { useMemo, useState } from "react";
 import HoverCard from "./HoverCard";
-
+import FenceIcon from "./FenceIcon"
 export interface DayData {
   date: string;
   messageCount: number;
@@ -70,7 +70,7 @@ const FLOWERS = [
   { symbol: '❋', color: '255, 255, 255' }, // white
   { symbol: '✾', color: '255, 255, 255' }, // white
   { symbol: '✽', color: '63, 77, 184' }, // blue
-  { symbol: '❇', color: '63, 77, 184' }, // blue
+  { symbol: '✼', color: '63, 77, 184' }, // blue
 ];
 
 const getFlower = () => {
@@ -98,57 +98,83 @@ export default function MessageCalendar({ data }: MessageGridProps) {
     }, [data]);
 
     return (
-        <div className="relative w-full pb-4">
-            <div className="grid w-fit mx-auto grid-cols-21 md:grid-cols-14">
-                {data.map((day) => {
-                    const style = getCellStyle(day, maxMessages);
-                    const flowerObject = flowerMap.get(day.date);
+        <div className="relative">
+            <div className="w-fit mx-auto">
+                {/* Top fence */}
+                <div className="flex w-full h-12 mb-2 overflow-hidden">
+                    {Array.from({ length: 11 }).map((_, i) => (
+                        <FenceIcon 
+                            key={i}
+                            color="#E7B682" 
+                            className="h-full w-auto shrink-0 -mx-px"
+                        />
+                    ))}
+                </div>
 
-                    return (
-                        <div
-                            key={day.date}
-                            className={`
-                                w-4 h-4
-                                md:w-8 md:h-8
-                                cursor-pointer
-                                transition-transform
-                                hover:scale-110
-                                hover:z-10
-                                flex items-center justify-center
-                                overflow-visible
-                                `}
-                            style={style}
-                            onMouseEnter={() => setHoveredDay(day)}
-                            onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
-                            onMouseLeave={() => setHoveredDay(null)}
-                            >
+                {/* grid */}
+                <div className="grid w-fit h-fit mx-auto grid-cols-21 md:grid-cols-14">
+                    {data.map((day) => {
+                        const style = getCellStyle(day, maxMessages);
+                        const flowerObject = flowerMap.get(day.date);
 
-                                {/* grow a flower if a milestone */}
-                                {
-                                (day.milestone && flowerObject)
-                                    ? <div
-                                    className="text-xl md:text-6xl"
-                                    style={{
-                                        color: (`rgb(${flowerObject.color})`),
-                                        textShadow: `
-                                            0 0 3px rgba(${flowerObject.color}, 0.35),
-                                            0 0 6px rgba(255,255,255,0.25)
-                                            `,
-                                        zIndex: 9
-                                    }}>
-                                        {flowerObject.symbol}
-                                    </div>
-                                    : null
-                                }
+                        return (
+                            <div
+                                key={day.date}
+                                className={`
+                                    w-5 h-5
+                                    md:w-7 md:h-7
+                                    cursor-pointer
+                                    transition-transform
+                                    hover:scale-110
+                                    hover:z-10
+                                    flex items-center justify-center
+                                    overflow-visible
+                                    `}
+                                style={style}
+                                onMouseEnter={() => setHoveredDay(day)}
+                                onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
+                                onMouseLeave={() => setHoveredDay(null)}
+                                >
 
-                        </div>
-                    )
-                })}
+                                    {/* grow a flower if a milestone */}
+                                    {
+                                    (day.milestone && flowerObject)
+                                        ? <div
+                                        className="text-xl md:text-6xl"
+                                        style={{
+                                            color: (`rgb(${flowerObject.color})`),
+                                            textShadow: `
+                                                0 0 3px rgba(${flowerObject.color}, 0.35),
+                                                0 0 6px rgba(255,255,255,0.25)
+                                                `,
+                                            zIndex: 9
+                                        }}>
+                                            {flowerObject.symbol}
+                                        </div>
+                                        : null
+                                    }
+
+                            </div>
+                        )
+                    })}
+                </div>
+
+                {hoveredDay && (
+                    <HoverCard day={hoveredDay} position={mousePosition} />
+                )}
+
+                {/* Bottom fence */}
+                <div className="flex w-full h-12 mb-2 overflow-hidden">
+                    {Array.from({ length: 11 }).map((_, i) => (
+                        <FenceIcon 
+                            key={i}
+                            color="#E7B682" 
+                            className="h-full w-auto shrink-0 -mx-px"
+                        />
+                    ))}
+                </div>
+
             </div>
-
-            {hoveredDay && (
-                <HoverCard day={hoveredDay} position={mousePosition} />
-            )}
         </div>
     );
 }
