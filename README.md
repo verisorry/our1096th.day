@@ -1,41 +1,150 @@
-1. scripts/export_imessages.py
-2. scripts/process_messages.py
-3. scripts/analyse_sentiment.py
-4. scripts/tag_era.py
-5. scripts/export_json.py
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Our 1096th Day
 
-## Getting Started
+Disclaimer: the following README was written using Claude AI.
 
-First, run the development server:
+A graphical visualization of three years of conversations, celebrating 1096 days together through iMessage data analysis and an interactive calendar display.
+
+## About
+
+This project transforms iMessage conversations into a visual story. Each day is represented as a square in a grid, with colors reflecting sentiment (from brown for negative to green for positive) and brightness indicating message volume. Milestones are marked with flowers, and hovering over any day reveals quotes, emojis, and details from that period.
+
+## Tech Stack
+
+- **Frontend**: Next.js 16, React 19, TypeScript, Tailwind CSS
+- **Data Processing**: Python 3 with pandas, transformers (sentiment analysis)
+- **Styling**: Tailwind CSS 4, react-icons
+
+## Prerequisites
+
+- Node.js (v20 or higher)
+- Python 3.x with pip
+- Access to macOS iMessage database (`~/Library/Messages/chat.db`)
+- npm or yarn
+
+## Setup
+
+### 1. Install Dependencies
+
+Install Node.js dependencies:
+```bash
+npm install
+```
+
+Set up Python virtual environment and dependencies:
+```bash
+python3 -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 2. Configure Environment Variables
+
+Create a `.env.local` file in the root directory:
+```env
+HIS_PHONE=+1234567890
+HIS_EMAIL=email@example.com
+HIS_NAME=Name
+YOUR_NAME=YourName
+```
+
+### 3. Data Processing Pipeline
+
+Run the Python scripts in order to process your iMessage data:
+
+```bash
+# Make sure you're in the virtual environment
+source .venv/bin/activate
+
+# 1. Export messages from iMessage database
+python3 scripts/export_imessages.py
+
+# 2. Process and clean the raw messages
+python3 scripts/process_messages.py
+
+# 3. Analyze sentiment of messages
+python3 scripts/analyse_sentiment.py
+
+# 4. Tag messages with era/milestone information
+python3 scripts/tag_era.py
+
+# 5. Export final JSON for the web app
+python3 scripts/export_json.py
+```
+
+After running all scripts, you should have:
+- `data/raw_messages.csv` - Raw exported messages
+- `data/processed_messages.csv` - Cleaned messages
+- `data/messages_with_sentiment.csv` - Messages with sentiment scores
+- `data/messages_tagged.csv` - Messages tagged with eras/milestones
+- `src/data/messages.json` - Final JSON data for the web app
+- `src/data/stats.json` - Statistics summary
+
+## Running the Application
+
+### Development Mode
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The page auto-updates as you edit files.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Production Build
 
-## Learn More
+```bash
+npm run build
+npm start
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Linting
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run lint
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Project Structure
 
-## Deploy on Vercel
+```
+.
+├── scripts/              # Python data processing scripts
+│   ├── config.py        # Configuration settings
+│   ├── utils.py         # Utility functions
+│   ├── export_imessages.py   # Step 1: Extract from iMessage DB
+│   ├── process_messages.py   # Step 2: Clean and process
+│   ├── analyse_sentiment.py  # Step 3: Sentiment analysis
+│   ├── tag_era.py            # Step 4: Add milestone tags
+│   └── export_json.py        # Step 5: Generate final JSON
+├── src/
+│   ├── app/             # Next.js app directory
+│   ├── components/      # React components
+│   │   ├── MessageCalendar.tsx
+│   │   ├── HoverCard.tsx
+│   │   └── PasswordProtect.tsx
+│   └── data/            # Generated JSON data files
+├── public/              # Static assets (backgrounds, etc.)
+└── data/                # Processed CSV files (gitignored)
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Features
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Interactive calendar grid visualization
+- Sentiment-based color coding
+- Message volume brightness indicators
+- Milestone markers with hover details
+- Random seasonal backgrounds
+- Password protection
+- Mobile responsive design
+- Comprehensive statistics display
+
+## Privacy
+
+This project processes local iMessage data. All data processing happens locally on your machine. Make sure to:
+- Keep your `.env.local` file private
+- Add `data/` directory to `.gitignore` to avoid committing personal messages
+- Use password protection when deploying
+
+## License
+
+Personal project - not licensed for reuse.
