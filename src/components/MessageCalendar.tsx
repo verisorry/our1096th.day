@@ -109,7 +109,7 @@ export default function MessageCalendar({ data }: MessageGridProps) {
         <div className="relative">
             <div className="w-fit mx-auto">
                 {/* Top fence */}
-                <div className="flex w-full h-12 mb-2 overflow-hidden">
+                <div className="hidden md:flex w-full h-12 mb-2 overflow-hidden">
                     {Array.from({ length: 11 }).map((_, i) => (
                         <FenceIcon 
                             key={i}
@@ -119,8 +119,18 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                     ))}
                 </div>
 
+                <div className="flex md:hidden w-full h-12 mb-4 overflow-hidden justify-center">
+                    {Array.from({ length: 8 }).map((_, i) => (
+                        <FenceIcon 
+                            key={i}
+                            color="#E7B682" 
+                            className="h-full w-auto shrink-0 -mx-px"
+                        />
+                    ))}
+                </div>
+
                 {/* grid */}
-                <div className="grid w-fit h-fit mx-auto grid-cols-21 md:grid-cols-14">
+                <div className="grid w-fit h-fit mx-auto grid-cols-16 md:grid-cols-14">
                     {data.map((day) => {
                         const style = getCellStyle(day, maxMessages);
                         const flowerObject = flowerMap.get(day.date);
@@ -148,7 +158,7 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                                     {
                                     (day.milestone && flowerObject)
                                         ? <div
-                                        className="text-xl md:text-6xl"
+                                        className="text-3xl md:text-6xl"
                                         style={{
                                             color: (`rgb(${flowerObject.color})`),
                                             textShadow: `
@@ -172,8 +182,18 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                 )}
 
                 {/* Bottom fence */}
-                <div className="flex w-full h-12 mb-2 overflow-hidden">
+                <div className="hidden md:flex w-full h-12 mt-2 overflow-hidden">
                     {Array.from({ length: 11 }).map((_, i) => (
+                        <FenceIcon 
+                            key={i}
+                            color="#E7B682" 
+                            className="h-full w-auto shrink-0 -mx-px"
+                        />
+                    ))}
+                </div>
+
+                <div className="flex md:hidden w-full h-12 mt-4 overflow-hidden justify-center">
+                    {Array.from({ length: 8 }).map((_, i) => (
                         <FenceIcon 
                             key={i}
                             color="#E7B682" 
