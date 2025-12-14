@@ -2,7 +2,7 @@
 // Each square represents one day
 "use client"
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect, useRef } from "react";
 import HoverCard from "./HoverCard";
 import FenceIcon from "./FenceIcon"
 export interface DayData {
@@ -88,13 +88,31 @@ const getFlower = () => {
 export default function MessageCalendar({ data }: MessageGridProps) {
     const [hoveredDay, setHoveredDay] = useState<DayData | null>(null);
     const [mousePosition, setMousePosition] = useState({ x: 0, y: 0});
+    const [clickedDay, setClickedDay] = useState<DayData | null>(null);
+    const containerRef = useRef<HTMLDivElement>(null);
 
     const maxMessages = useMemo(() =>
         Math.max(...data.map(d => d.messageCount)),
         [data]
     );
 
-    // Memoize flower selection so it only changes on load
+    // close hover when clicking outside
+    useEffect(() => {
+        const handleClickOutside = (event: MouseEvent | TouchEvent) => {
+            if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
+                setClickedDay(null);
+            }
+        };
+
+        document.addEventListener('mousedown', handleClickOutside);
+        document.addEventListener('touchstart', handleClickOutside);
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+            document.removeEventListener('touchstart', handleClickOutside);
+        };
+    }, []);
+
+    // memoize flower selection so it only changes on load
     const flowerMap = useMemo(() => {
         const map = new Map<string, typeof FLOWERS[0]>();
         data.forEach(day => {
@@ -106,7 +124,7 @@ export default function MessageCalendar({ data }: MessageGridProps) {
     }, [data]);
 
     return (
-        <div className="relative">
+        <div className="relative" ref={containerRef}>
             <div className="w-fit mx-auto">
                 {/* Top fence */}
                 <div className="hidden md:flex w-full h-12 mb-2 overflow-hidden">
@@ -152,6 +170,10 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                                 onMouseEnter={() => setHoveredDay(day)}
                                 onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
                                 onMouseLeave={() => setHoveredDay(null)}
+                                onClick={(e) => {
+                                    setClickedDay(clickedDay?.date === day.date ? null : day);
+                                    setMousePosition({ x: e.clientX, y: e.clientY });
+                                }}
                                 >
 
                                     {/* grow a flower if a milestone */}
@@ -177,8 +199,12 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                     })}
                 </div>
 
-                {hoveredDay && (
-                    <HoverCard day={hoveredDay} position={mousePosition} />
+                {(hoveredDay || clickedDay) && (
+                    <HoverCard
+                        day={hoveredDay || clickedDay!}
+                        position={mousePosition}
+                        onClose={() => setClickedDay(null)}
+                    />
                 )}
 
                 {/* Bottom fence */}

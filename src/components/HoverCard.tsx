@@ -1,7 +1,7 @@
 import { DayData } from "./MessageCalendar";
 import { useMemo } from "react";
 
-export default function HoverCard({ day, position }: { day: DayData; position: { x: number; y: number } }) {
+export default function HoverCard({ day, position, onClose }: { day: DayData; position: { x: number; y: number }; onClose?: () => void }) {
   const estimatedWidth = 256;
   const estimatedHeight = 300;
 
@@ -37,12 +37,23 @@ export default function HoverCard({ day, position }: { day: DayData; position: {
 
   return (
     <div
-      className="fixed flex flex-col z-50 bg-gray-100 text-gray-800 p-4 rounded-lg shadow-2xl border border-gray-300 w-64 pointer-events-none"
+      className="fixed flex flex-col z-50 bg-gray-100 text-gray-800 p-4 rounded-lg shadow-2xl border border-gray-300 w-64 md:pointer-events-none"
       style={{
         left: `${adjustedPosition.x}px`,
         top: `${adjustedPosition.y}px`,
       }}
     >
+        {/* x button for mobile */}
+        {onClose && (
+            <button
+                onClick={onClose}
+                className="md:hidden absolute top-2 right-2 w-6 h-6 flex items-center justify-center rounded-full text-red-700 font-medium text-lg"
+                aria-label="Close"
+            >
+                ×
+            </button>
+        )}
+
         <div className="text-sm font-semibold text-gray-800 mb-2">
             {new Date(day.date).toLocaleDateString('en-US', { 
                 weekday: 'long',
