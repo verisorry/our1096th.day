@@ -10,7 +10,7 @@ import os
 # Ensure the data directory exists
 os.makedirs('data', exist_ok=True)
 
-df = pd.read_csv('data/daily_stats.csv')
+df = pd.read_csv('data/2_daily_stats.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 analyzer = SentimentIntensityAnalyzer()
@@ -160,5 +160,5 @@ print(df['sentiment_label'].value_counts())
 print("\nSample data:")
 print(df[df['message_count'] > 0][['date', 'message_count', 'compound', 'sentiment_label', 'quote']].head(10))
 
-df.to_csv('data/messages_sentiment.csv', index=False)
-print("\nSaved to data/messages_sentiment.csv")
+df.to_csv('data/3_messages_sentiment.csv', index=False)
+print("\nSaved to data/3_messages_sentiment.csv")

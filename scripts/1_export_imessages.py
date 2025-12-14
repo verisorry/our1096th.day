@@ -77,7 +77,7 @@ if HIS_PHONE:
 
 get_messages(identifiers, HIS_NAME, YOUR_NAME, output)
 
-with open(f"data/raw_messages.csv", "w") as f:
+with open(f"data/1_export_imessages.csv", "w") as f:
     f.write(config.NEWLINE.join(output))
 
-print(f"Exported {len(output)} messages to data/raw_messages.csv")
+print(f"Exported {len(output)} messages to data/1_export_imessages.csv")

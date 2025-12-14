@@ -40,7 +40,8 @@ def decode_attributed_body(attributed_body):
         if match:
             content = match.group(1)
             # Remove leading single capital letter that's a type indicator (like +T, +H, +I, +C, +W, +S)
-            content = re.sub(r'^[A-Z](?=[a-z0-9\s])', '', content)
+            # Only remove if it's a single letter followed by a non-letter or if it appears to be a type code
+            content = re.sub(r'^[A-Z](?=[^A-Za-z])', '', content)
             # Remove unwanted text from the beginning and end, but keep "Loved"
             content = re.sub(r'^[\d\s]*(?=Loved|.)|(?:")?iI.*?NSDictionary$', '', content).strip()
             # Remove control characters (including \x02 and other non-printable characters)

@@ -7,7 +7,7 @@ os.makedirs('data', exist_ok=True)
 
 load_dotenv('.env.local')
 
-df = pd.read_csv('data/raw_messages.csv')
+df = pd.read_csv('data/1_export_imessages.csv')
 
 df['datetime'] = pd.to_datetime(df['time'])
 df['date'] = df['datetime'].dt.date
@@ -40,5 +40,5 @@ print(f"Total days: {len(daily_stats)}")
 print(f"Days with messages: {(daily_stats['message_count'] > 0).sum()}")
 print(f"Days with no messages: {(daily_stats['message_count'] == 0).sum()}")
 
-daily_stats.to_csv('data/daily_stats.csv', index=False)
-print("Saved to data/daily_stats.csv")
+daily_stats.to_csv('data/2_daily_stats.csv', index=False)
+print("Saved to data/2_daily_stats.csv")

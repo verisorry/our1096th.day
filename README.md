@@ -115,39 +115,39 @@ source .venv/bin/activate
 1. Export messages from iMessage database
 
 ```bash
-python3 scripts/export_imessages.py
+python3 scripts/1_export_imessages.py
 ```
 
 2. Process and clean the raw messages
 
 ```bash
-python3 scripts/process_messages.py
+python3 scripts/2_daily_stats.py
 ```
 
 3. Analyze sentiment of messages
 
 ```bash
-python3 scripts/analyse_sentiment.py
+python3 scripts/3_analyse_sentiment.py
 ```
 
 4. Tag messages with era/milestone information
 
 ```bash
-python3 scripts/tag_era.py
+python3 scripts/4_tag_era.py
 ```
 
 5. Export final JSON for the web app
 
 ```bash
-python3 scripts/export_json.py
+python3 scripts/5_export_json.py
 ```
 
 After running all scripts, you should have:
 
-- `data/raw_messages.csv` - Raw exported messages
-- `data/processed_messages.csv` - Cleaned messages
-- `data/messages_with_sentiment.csv` - Messages with sentiment scores
-- `data/messages_tagged.csv` - Messages tagged with eras/milestones
+- `data/1_export_imessages.csv` - Raw exported messages
+- `data/2_daily_stats.csv` - Cleaned messages
+- `data/3_messages_sentiment.csv` - Messages with sentiment scores
+- `data/4_final_data.csv` - Messages tagged with eras/milestones
 - `src/data/messages.json` - Final JSON data for the web app
 - `src/data/stats.json` - Statistics summary
 

@@ -10,7 +10,7 @@ os.makedirs('data', exist_ok=True)
 with open('.env.local.json', 'r') as f:
     config = json.load(f)
 
-df = pd.read_csv('data/messages_sentiment.csv')
+df = pd.read_csv('data/3_messages_sentiment.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 # Parse config data
@@ -125,5 +125,5 @@ if df['is_apart'].sum() > 0:
 
 print("="*60)
 
-df.to_csv('data/final_data.csv', index=False)
-print("\nSaved to data/final_data.csv")
+df.to_csv('data/4_final_data.csv', index=False)
+print("\nSaved to data/4_final_data.csv")
