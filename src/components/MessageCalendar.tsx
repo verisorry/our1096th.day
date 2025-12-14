@@ -30,7 +30,10 @@ const getCellStyle = (day: DayData, maxMessages: number) => {
     // if no message, soil
     if (day.messageCount === 0) {
         return {
-            backgroundColor: 'rgba(58, 45, 35, 0.8)',
+            backgroundImage: `linear-gradient(rgba(58, 45, 35, 0.8), rgba(58, 45, 35, 0.8)), linear-gradient(white, white)`,
+            backgroundPosition: '0 0, 0 0',
+            backgroundSize: '100% 100%, 100% 100%',
+            backgroundRepeat: 'no-repeat'
         };
     }
 
@@ -38,24 +41,29 @@ const getCellStyle = (day: DayData, maxMessages: number) => {
     let rgb;
 
     // if very negative
-    if (compound < -0.3) rgb = '61, 40, 23';
+    if (compound < -0.3) rgb = '205, 120, 45';
 
     // if negative
-    else if (compound < -0.05) rgb = '101, 67, 33';
+    else if (compound < -0.05) rgb = '173, 116, 36';
 
-    // if neutral
-    else if (compound <= 0.05) rgb = '120, 140, 160';
+    // if neutral = lake
+    else if (compound <= 0.05) rgb = '0, 192, 192';
 
     // if positive
-    else if (compound <= 0.3) rgb = '106, 168, 79';
+    else if (compound <= 0.3) rgb = '104, 113, 35';
 
     // if very positive
-    else rgb = '64, 143, 77';
+    else rgb = '38, 90, 41';
 
     // opacity based on message count
-    const opacity = 0.45 + (day.messageCount / maxMessages) * 0.55;
+    const opacity = 0.65 + (day.messageCount / maxMessages) * 0.35;
 
-    return { backgroundColor: `rgba(${rgb}, ${opacity})` };
+    return {
+        backgroundImage: `linear-gradient(rgba(${rgb}, ${opacity}), rgba(${rgb}, ${opacity})), linear-gradient(white, white)`,
+        backgroundPosition: '0 0, 0 0',
+        backgroundSize: '100% 100%, 100% 100%',
+        backgroundRepeat: 'no-repeat'
+    };
 }
 
 function getRandomInt(max: number) {

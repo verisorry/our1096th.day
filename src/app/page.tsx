@@ -1,8 +1,21 @@
+'use client';
+
+import { useState } from 'react';
 import MessageCalendar from "@/components/MessageCalendar";
 import messagesData from '@/data/messages.json';
 import statsData from '@/data/stats.json'
 
+const backgrounds = [
+  { path: '/DarkDirt_Fall.png', color: '#C16024'},
+  { path: '/DarkDirt_Spring.png', color: '#B67A29'},
+  { path: '/DarkDirt_Winter.png', color: '#9EEEFF'},
+  { path: '/DarkDirt_Summer.png', color: '#C47E17'},
+]
 export default function Home() {
+  const [backgroundObject] = useState(() => {
+    return backgrounds[Math.floor(Math.random() * 4)];
+  });
+
   return (
     <main className="flex flex-col md:flex-row h-screen p-2 bg-zinc-50 font-mono text-zinc-800 dark:bg-black">
       <section className="flex flex-col gap-4 justify-start p-4 lg:px-12 lg:py-12 xl:px-16 flex-1 uppercase ">
@@ -65,7 +78,13 @@ export default function Home() {
       </section>
 
       {/* grid */}
-      <aside className="flex flex-1 items-center justify-center bg-white">
+      <aside
+        className="flex flex-1 items-center justify-center "
+        style={{ 
+          backgroundImage: `url(${backgroundObject.path})`,
+          backgroundColor: backgroundObject.color
+       }}
+      >
         <MessageCalendar data={messagesData} />
       </aside>
     </main>
