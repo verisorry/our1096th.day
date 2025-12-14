@@ -99,7 +99,7 @@ export default function MessageCalendar({ data }: MessageGridProps) {
 
     return (
         <div className="relative w-full pb-4">
-            <div className="grid w-fit mx-auto" style={{ gridTemplateColumns: 'repeat(14, minmax(0, 1fr))' }}>
+            <div className="grid w-fit mx-auto grid-cols-21 md:grid-cols-14">
                 {data.map((day) => {
                     const style = getCellStyle(day, maxMessages);
                     const flowerObject = flowerMap.get(day.date);
@@ -108,7 +108,8 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                         <div
                             key={day.date}
                             className={`
-                                w-8 h-8
+                                w-4 h-4
+                                md:w-8 md:h-8
                                 cursor-pointer
                                 transition-transform
                                 hover:scale-110
@@ -126,7 +127,7 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                                 {
                                 (day.milestone && flowerObject)
                                     ? <div
-                                    className="text-6xl"
+                                    className="text-xl md:text-6xl"
                                     style={{
                                         color: (`rgb(${flowerObject.color})`),
                                         textShadow: `

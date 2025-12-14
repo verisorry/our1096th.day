@@ -54,12 +54,12 @@ export default function HoverCard({ day, position }: { day: DayData; position: {
         </div>
         
         {day.milestone && (
-            <div className="mb-2 text-yellow-500 font-semibold text-sm">
+            <div className="mb-2 text-yellow-500 font-medium text-sm">
             ✨ {day.milestone} ✨
             </div>
         )}
         {day.isApart && (
-            <div className="text-red-500 mb-2 font-semibold text-sm">📍 Long distance</div>
+            <div className="text-red-500 mb-2 font-medium text-sm">📍 Apart</div>
         )}
 
         <div className="space-y-1 text-sm">
