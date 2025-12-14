@@ -24,10 +24,10 @@ interface MessageGridProps {
 
 // helper for colour logic
 const getCellStyle = (day: DayData, maxMessages: number) => {
-    // if no message
+    // if no message, soil
     if (day.messageCount === 0) {
         return {
-            backgroundColor: 'rgba(31, 41, 55, 0.3)',
+            backgroundColor: 'rgba(58, 45, 35, 0.8)',
         };
     }
 
@@ -35,31 +35,43 @@ const getCellStyle = (day: DayData, maxMessages: number) => {
     let rgb;
 
     // if very negative
-    if (compound < -0.3) rgb = '81, 38, 1';
+    if (compound < -0.3) rgb = '61, 40, 23';
 
     // if negative
-    else if (compound < -0.05) rgb = '145, 70, 3';
+    else if (compound < -0.05) rgb = '101, 67, 33';
 
     // if neutral
-    else if (compound <= 0.05) rgb = '15, 94, 156';
+    else if (compound <= 0.05) rgb = '120, 140, 160';
 
     // if positive
-    else if (compound <= 0.3) rgb = '56, 106, 0';
+    else if (compound <= 0.3) rgb = '106, 168, 79';
 
     // if very positive
-    else rgb = '99, 180, 0';
+    else rgb = '64, 143, 77';
 
     // opacity based on message count
-    const opacity = 0.4 + (day.messageCount / maxMessages) * 0.6;
+    const opacity = 0.45 + (day.messageCount / maxMessages) * 0.55;
 
     return { backgroundColor: `rgba(${rgb}, ${opacity})` };
 }
 
-const getFlower = (index: number) => {
-    // const flowers = ['❋','❀', '✿', '❁', '❃', '᪥', '𖠇', '❊', '✺', '🪷', '🌸', '🌷', '🌻', '🌼', '🪻', '🍂']
-    const flowers = ['🪷', '🌸', '🌷', '🌻', '🌼', '🪻', '🍂']
+function getRandomInt(max: number) {
+        return Math.floor(Math.random() * max)
+}
 
-    return flowers[index % flowers.length]
+const FLOWERS = [
+  { symbol: '✿', color: '247, 205, 205' }, // pink
+  { symbol: '❃', color: '247, 205, 205' }, // pink
+  { symbol: '❀', color: '255, 217, 102' }, // yellow
+  { symbol: '❁', color: '255, 217, 102' }, // yellow
+  { symbol: '❋', color: '255, 255, 255' }, // white
+  { symbol: '✾', color: '255, 255, 255' }, // white
+  { symbol: '✽', color: '63, 77, 184' }, // blue
+  { symbol: '❇', color: '63, 77, 184' }, // blue
+];
+
+const getFlower = () => {
+    return FLOWERS[getRandomInt(FLOWERS.length)]
 }
 
 export default function MessageCalendar({ data }: MessageGridProps) {
@@ -71,21 +83,21 @@ export default function MessageCalendar({ data }: MessageGridProps) {
     return (
         <div className="relative w-full pb-4">
             <div className="grid w-fit mx-auto" style={{ gridTemplateColumns: 'repeat(14, minmax(0, 1fr))' }}>
-                {data.map((day, index) => {
+                {data.map((day) => {
                     const style = getCellStyle(day, maxMessages);
+                    const flowerObject = getFlower();
 
                     return (
                         <div
                             key={day.date}
                             className={`
                                 w-8 h-8
-                                cursor-pointer 
-                                transition-transform 
+                                cursor-pointer
+                                transition-transform
                                 hover:scale-110
                                 hover:z-10
-                                text-center
-                                align-middle
-                                leading-8
+                                flex items-center justify-center
+                                overflow-visible
                                 `}
                             style={style}
                             >
@@ -93,7 +105,18 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                                 {/* grow a flower if a milestone */}
                                 {
                                 (day.milestone)
-                                    ? <span className="text-2xl"> {getFlower(index)} </span>
+                                    ? <div 
+                                    className="text-6xl"
+                                    style={{ 
+                                        color: (`rgb(${flowerObject.color})`), 
+                                        textShadow: `
+                                            0 0 3px rgba(${flowerObject.color}, 0.35),
+                                            0 0 6px rgba(255,255,255,0.25)
+                                            `,
+                                        zIndex: 999
+                                    }}> 
+                                        {flowerObject.symbol} 
+                                    </div>
                                     : null
                                 }
 
