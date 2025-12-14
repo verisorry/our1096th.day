@@ -1,6 +1,7 @@
 # Our 1096th Day
 
 Disclaimer: the following README was written using Claude AI.
+Note: email me @ fang.silvia2026@gmail.com for the password!
 
 A graphical visualization of three years of conversations, celebrating 1096 days together through iMessage data analysis and an interactive calendar display.
 
