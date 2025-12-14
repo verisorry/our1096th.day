@@ -3,6 +3,9 @@ from datetime import datetime
 import json
 import os
 
+# Ensure the data directory exists
+os.makedirs('data', exist_ok=True)
+
 # Load config from JSON file
 with open('.env.local.json', 'r') as f:
     config = json.load(f)

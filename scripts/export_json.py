@@ -1,5 +1,9 @@
 import pandas as pd
 import json
+import os
+
+# Ensure the src/data directory exists
+os.makedirs('src/data', exist_ok=True)
 
 df = pd.read_csv('data/final_data.csv')
 

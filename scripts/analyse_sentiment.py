@@ -5,6 +5,10 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import emoji
 from collections import Counter
 import re
+import os
+
+# Ensure the data directory exists
+os.makedirs('data', exist_ok=True)
 
 df = pd.read_csv('data/daily_stats.csv')
 df['date'] = pd.to_datetime(df['date'])

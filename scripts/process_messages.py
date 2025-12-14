@@ -2,6 +2,9 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 
+# Ensure the data directory exists
+os.makedirs('data', exist_ok=True)
+
 load_dotenv('.env.local')
 
 df = pd.read_csv('data/raw_messages.csv')

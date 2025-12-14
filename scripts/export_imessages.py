@@ -5,6 +5,9 @@ from datetime import datetime
 
 import sqlite3, os
 
+# Ensure the data directory exists
+os.makedirs('data', exist_ok=True)
+
 def get_messages(identifiers, his_name, your_name, output):
     handle_ids = utils.get_handle_ids(identifiers)
     if not handle_ids:
@@ -76,4 +79,5 @@ get_messages(identifiers, HIS_NAME, YOUR_NAME, output)
 
 with open(f"data/raw_messages.csv", "w") as f:
     f.write(config.NEWLINE.join(output))
-    
+
+print(f"Exported {len(output)} messages to data/raw_messages.csv")
