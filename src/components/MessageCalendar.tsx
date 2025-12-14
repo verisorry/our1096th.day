@@ -1,12 +1,14 @@
 // It takes your data and creates a grid of colored squares
 // Each square represents one day
+"use client"
 
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
+import HoverCard from "./HoverCard";
 
-interface DayData {
+export interface DayData {
   date: string;
   messageCount: number;
-  fromMe: number;
+  fromYou: number;
   fromHim: number;
   sentiment: {
     compound: number;
@@ -16,6 +18,7 @@ interface DayData {
   topEmoji: string;
   era: string;
   milestone: string | null;
+  isApart: boolean;
 }
 
 interface MessageGridProps {
@@ -75,17 +78,31 @@ const getFlower = () => {
 }
 
 export default function MessageCalendar({ data }: MessageGridProps) {
-    const maxMessages = useMemo(() => 
+    const [hoveredDay, setHoveredDay] = useState<DayData | null>(null);
+    const [mousePosition, setMousePosition] = useState({ x: 0, y: 0});
+
+    const maxMessages = useMemo(() =>
         Math.max(...data.map(d => d.messageCount)),
         [data]
     );
+
+    // Memoize flower selection so it only changes on load
+    const flowerMap = useMemo(() => {
+        const map = new Map<string, typeof FLOWERS[0]>();
+        data.forEach(day => {
+            if (day.milestone) {
+                map.set(day.date, getFlower());
+            }
+        });
+        return map;
+    }, [data]);
 
     return (
         <div className="relative w-full pb-4">
             <div className="grid w-fit mx-auto" style={{ gridTemplateColumns: 'repeat(14, minmax(0, 1fr))' }}>
                 {data.map((day) => {
                     const style = getCellStyle(day, maxMessages);
-                    const flowerObject = getFlower();
+                    const flowerObject = flowerMap.get(day.date);
 
                     return (
                         <div
@@ -100,22 +117,25 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                                 overflow-visible
                                 `}
                             style={style}
+                            onMouseEnter={() => setHoveredDay(day)}
+                            onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
+                            onMouseLeave={() => setHoveredDay(null)}
                             >
 
                                 {/* grow a flower if a milestone */}
                                 {
-                                (day.milestone)
-                                    ? <div 
+                                (day.milestone && flowerObject)
+                                    ? <div
                                     className="text-6xl"
-                                    style={{ 
-                                        color: (`rgb(${flowerObject.color})`), 
+                                    style={{
+                                        color: (`rgb(${flowerObject.color})`),
                                         textShadow: `
                                             0 0 3px rgba(${flowerObject.color}, 0.35),
                                             0 0 6px rgba(255,255,255,0.25)
                                             `,
-                                        zIndex: 999
-                                    }}> 
-                                        {flowerObject.symbol} 
+                                        zIndex: 9
+                                    }}>
+                                        {flowerObject.symbol}
                                     </div>
                                     : null
                                 }
@@ -124,6 +144,10 @@ export default function MessageCalendar({ data }: MessageGridProps) {
                     )
                 })}
             </div>
+
+            {hoveredDay && (
+                <HoverCard day={hoveredDay} position={mousePosition} />
+            )}
         </div>
-    )
+    );
 }
