@@ -1,7 +1,5 @@
 # Our 1096th Day
 
-_**If by ANY chance, you're Luke de Souza, look away!**_
-
 **Disclaimer**: the following README was written using Claude AI.
 
 *Note: email me @ fang.silvia2026@gmail.com for the password!*
