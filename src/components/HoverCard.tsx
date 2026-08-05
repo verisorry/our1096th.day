@@ -1,7 +1,7 @@
 import { DayData } from "./MessageCalendar";
 import { useMemo } from "react";
 
-export default function HoverCard({ day, position, onClose }: { day: DayData; position: { x: number; y: number }; onClose?: () => void }) {
+export default function HoverCard({ day, names, position, onClose }: { day: DayData; names: { you: string; him: string }; position: { x: number; y: number }; onClose?: () => void }) {
   const estimatedWidth = 256;
   const estimatedHeight = 300;
 
@@ -80,12 +80,12 @@ export default function HoverCard({ day, position, onClose }: { day: DayData; po
             </div>
             
             <div className="flex justify-between gap-4">
-                <span>From {process.env.NEXT_PUBLIC_YOUR_NAME}:</span>
+                <span>From {names.you}:</span>
                 <span className="font-medium">{day.fromYou}</span>
             </div>
-            
+
             <div className="flex justify-between gap-4">
-                <span>From {process.env.NEXT_PUBLIC_HIS_NAME}:</span>
+                <span>From {names.him}:</span>
                 <span className="font-medium">{day.fromHim}</span>
             </div>
         </div>

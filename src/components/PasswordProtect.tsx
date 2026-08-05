@@ -5,6 +5,7 @@
 
 'use client';
 
+import Link from 'next/link';
 import { useState, useRef, useEffect, startTransition } from 'react';
 
 export default function PasswordProtect({ children }: { children: React.ReactNode }) {
@@ -69,6 +70,18 @@ export default function PasswordProtect({ children }: { children: React.ReactNod
                         Enter
                     </button>
                 </form>
+
+                <div className="mt-6 pt-4 border-t border-zinc-200 text-center">
+                    <p className="text-zinc-500 text-xs mb-2">
+                        No password? Have a look around instead.
+                    </p>
+                    <Link
+                        href="/?demo=true"
+                        className="inline-block text-sm text-zinc-700 underline underline-offset-4 hover:text-zinc-900"
+                    >
+                        View the demo
+                    </Link>
+                </div>
             </div>
         </div>
     );

@@ -159,6 +159,18 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 The page auto-updates as you edit files.
 
+### Demo Mode
+
+Visit [http://localhost:3000/?demo=true](http://localhost:3000/?demo=true) (or add
+`?demo=true` to the deployed URL) for a version of the field built from generated
+data — no password, no real messages. There's also a link to it from the password
+screen.
+
+The demo data lives in `src/demo/demoData.ts` and is generated from a fixed seed, so
+it looks the same every time. The real message data is only imported by
+`src/components/RealField.tsx`, which is loaded lazily after the password is
+entered — so it never ends up in the bundle a demo visitor downloads.
+
 ### Production Build
 
 ```bash
