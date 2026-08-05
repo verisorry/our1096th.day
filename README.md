@@ -13,7 +13,7 @@ This project transforms iMessage conversations into a visual story. Each day is 
 ## Tech Stack
 
 - **Frontend**: Next.js 16, React 19, TypeScript, Tailwind CSS
-- **Data Processing**: Python 3 with pandas, transformers (sentiment analysis)
+- **Data Processing**: Python 3 with pandas, TextBlob and VADER (sentiment analysis), emoji
 - **Styling**: Tailwind CSS 4, react-icons
 
 ## Prerequisites

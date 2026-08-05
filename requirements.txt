@@ -1,0 +1,33 @@
+# Python dependencies for the scripts/ pipeline (scripts/1_ through 5_).
+# The web app's dependencies live in package.json - this file is Python only.
+#
+#   python3 -m venv .venv
+#   source .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# No corpus download step is needed: TextBlob's default analyser is used only
+# via .sentiment, which works without `python -m textblob.download_corpora`.
+
+# dataframes - used by every step from 2_daily_stats.py onwards
+pandas>=2.0
+
+# reads .env.local for the names, phone and email
+# (1_export_imessages.py, 2_daily_stats.py)
+python-dotenv>=1.0
+
+# sentiment, in 3_analyse_sentiment.py:
+#   TextBlob  -> polarity / subjectivity, and picks the quote of the day
+#   VADER     -> the compound score that drives the cell colours (better on
+#                casual text and emoji)
+textblob>=0.18
+vaderSentiment>=3.3
+
+# TextBlob's own runtime dependency - listed explicitly so a fresh install
+# doesn't depend on it arriving transitively
+nltk>=3.9
+
+# top emoji of the day, in 3_analyse_sentiment.py
+emoji>=2.0
+
+# Everything else the scripts import is standard library:
+# ast, collections, datetime, json, os, re, sqlite3
